@@ -1,0 +1,1201 @@
+Accident_ID,Date,Day_of_Week,Time,City,Vehicle_Type,Road_Condition,Weather,Light_Condition,Cause,Accident_Severity
+1,01-01-2023 00:00,Sunday,Night,Chennai,Bike,Snow,Rainy,Dark - Street Light,Mechanical Failure,Serious
+2,01-01-2023 01:00,Thursday,Afternoon,Chennai,Auto,Snow,Storm,Daylight,Overspeed,Serious
+3,01-01-2023 02:00,Friday,Evening,Delhi,Car,Dry,Rainy,Dark - No Light,Mechanical Failure,Fatal
+4,01-01-2023 03:00,Sunday,Morning,Pune,Truck,Dry,Storm,Dark - No Light,Signal Jump,Minor
+5,01-01-2023 04:00,Wednesday,Night,Chennai,Auto,Snow,Foggy,Daylight,Mechanical Failure,Serious
+6,01-01-2023 05:00,Friday,Morning,Delhi,Bike,Damaged,Foggy,Dark - Street Light,Drunk Driving,Serious
+7,01-01-2023 06:00,Friday,Afternoon,Mumbai,Bike,Wet,Storm,Dark - Street Light,Overspeed,Fatal
+8,01-01-2023 07:00,Sunday,Afternoon,Bangalore,Bus,Damaged,Clear,Daylight,Drunk Driving,Fatal
+9,01-01-2023 08:00,Tuesday,Afternoon,Pune,Auto,Wet,Rainy,Dark - Street Light,Signal Jump,Fatal
+10,01-01-2023 09:00,Wednesday,Night,Kolkata,Bus,Damaged,Rainy,Dark - Street Light,Drunk Driving,Fatal
+11,01-01-2023 10:00,Sunday,Evening,Bangalore,Car,Dry,Rainy,Dark - Street Light,Drunk Driving,Fatal
+12,01-01-2023 11:00,Wednesday,Night,Pune,Cycle,Snow,Storm,Dark - No Light,Drunk Driving,Fatal
+13,01-01-2023 12:00,Wednesday,Morning,Kolkata,Cycle,Snow,Foggy,Dark - No Light,Wrong Turn,Minor
+14,01-01-2023 13:00,Friday,Night,Bangalore,Cycle,Dry,Rainy,Daylight,Signal Jump,Serious
+15,01-01-2023 14:00,Thursday,Morning,Pune,Auto,Wet,Foggy,Dark - No Light,Drunk Driving,Minor
+16,01-01-2023 15:00,Wednesday,Night,Bangalore,Cycle,Wet,Rainy,Dark - Street Light,Drunk Driving,Minor
+17,01-01-2023 16:00,Saturday,Evening,Bangalore,Car,Wet,Rainy,Dark - No Light,Drunk Driving,Fatal
+18,01-01-2023 17:00,Friday,Morning,Kolkata,Bus,Dry,Storm,Daylight,Overspeed,Serious
+19,01-01-2023 18:00,Tuesday,Afternoon,Bangalore,Auto,Wet,Clear,Dark - No Light,Wrong Turn,Minor
+20,01-01-2023 19:00,Thursday,Afternoon,Bangalore,Bus,Dry,Storm,Dark - Street Light,Overspeed,Fatal
+21,01-01-2023 20:00,Saturday,Night,Kolkata,Auto,Damaged,Rainy,Dark - Street Light,Wrong Turn,Fatal
+22,01-01-2023 21:00,Saturday,Afternoon,Mumbai,Bus,Damaged,Rainy,Daylight,Drunk Driving,Serious
+23,01-01-2023 22:00,Tuesday,Morning,Chennai,Bike,Dry,Clear,Dark - No Light,Signal Jump,Minor
+24,01-01-2023 23:00,Thursday,Afternoon,Hyderabad,Bus,Snow,Foggy,Dark - No Light,Mechanical Failure,Minor
+25,02-01-2023 00:00,Friday,Evening,Delhi,Cycle,Damaged,Foggy,Dark - No Light,Mechanical Failure,Minor
+26,02-01-2023 01:00,Monday,Evening,Hyderabad,Bike,Wet,Rainy,Dark - Street Light,Drunk Driving,Fatal
+27,02-01-2023 02:00,Thursday,Night,Hyderabad,Bus,Dry,Foggy,Daylight,Overspeed,Serious
+28,02-01-2023 03:00,Tuesday,Morning,Pune,Auto,Wet,Rainy,Dark - No Light,Signal Jump,Serious
+29,02-01-2023 04:00,Saturday,Evening,Chennai,Auto,Wet,Clear,Dark - Street Light,Wrong Turn,Minor
+30,02-01-2023 05:00,Friday,Evening,Pune,Auto,Snow,Clear,Dark - Street Light,Drunk Driving,Fatal
+31,02-01-2023 06:00,Thursday,Morning,Chennai,Truck,Wet,Rainy,Dark - Street Light,Signal Jump,Minor
+32,02-01-2023 07:00,Monday,Afternoon,Kolkata,Car,Snow,Clear,Dark - No Light,Signal Jump,Serious
+33,02-01-2023 08:00,Monday,Afternoon,Kolkata,Auto,Damaged,Storm,Dark - No Light,Wrong Turn,Fatal
+34,02-01-2023 09:00,Wednesday,Night,Chennai,Bike,Dry,Storm,Dark - No Light,Signal Jump,Minor
+35,02-01-2023 10:00,Wednesday,Afternoon,Bangalore,Auto,Wet,Clear,Dark - No Light,Overspeed,Minor
+36,02-01-2023 11:00,Sunday,Morning,Mumbai,Truck,Dry,Rainy,Dark - No Light,Overspeed,Fatal
+37,02-01-2023 12:00,Tuesday,Evening,Bangalore,Cycle,Wet,Rainy,Dark - No Light,Overspeed,Serious
+38,02-01-2023 13:00,Thursday,Afternoon,Mumbai,Bike,Dry,Clear,Dark - No Light,Signal Jump,Fatal
+39,02-01-2023 14:00,Thursday,Night,Pune,Truck,Wet,Foggy,Dark - No Light,Overspeed,Minor
+40,02-01-2023 15:00,Sunday,Afternoon,Mumbai,Cycle,Wet,Storm,Dark - No Light,Wrong Turn,Minor
+41,02-01-2023 16:00,Saturday,Morning,Pune,Bike,Wet,Foggy,Dark - Street Light,Signal Jump,Minor
+42,02-01-2023 17:00,Saturday,Night,Kolkata,Bus,Wet,Rainy,Dark - No Light,Mechanical Failure,Minor
+43,02-01-2023 18:00,Sunday,Afternoon,Hyderabad,Car,Wet,Rainy,Daylight,Signal Jump,Serious
+44,02-01-2023 19:00,Saturday,Night,Kolkata,Car,Wet,Foggy,Dark - Street Light,Wrong Turn,Serious
+45,02-01-2023 20:00,Wednesday,Morning,Kolkata,Truck,Wet,Clear,Dark - No Light,Mechanical Failure,Minor
+46,02-01-2023 21:00,Thursday,Evening,Hyderabad,Cycle,Wet,Foggy,Daylight,Signal Jump,Serious
+47,02-01-2023 22:00,Sunday,Morning,Mumbai,Car,Wet,Foggy,Dark - No Light,Overspeed,Serious
+48,02-01-2023 23:00,Thursday,Morning,Mumbai,Cycle,Dry,Storm,Daylight,Drunk Driving,Serious
+49,03-01-2023 00:00,Monday,Morning,Pune,Cycle,Snow,Storm,Daylight,Drunk Driving,Minor
+50,03-01-2023 01:00,Wednesday,Morning,Bangalore,Truck,Wet,Foggy,Daylight,Overspeed,Fatal
+51,03-01-2023 02:00,Friday,Evening,Pune,Truck,Snow,Foggy,Daylight,Drunk Driving,Fatal
+52,03-01-2023 03:00,Wednesday,Evening,Bangalore,Truck,Wet,Rainy,Dark - Street Light,Drunk Driving,Fatal
+53,03-01-2023 04:00,Sunday,Night,Kolkata,Car,Wet,Storm,Dark - Street Light,Overspeed,Minor
+54,03-01-2023 05:00,Friday,Afternoon,Hyderabad,Truck,Dry,Storm,Daylight,Overspeed,Serious
+55,03-01-2023 06:00,Monday,Evening,Kolkata,Car,Damaged,Rainy,Dark - No Light,Signal Jump,Serious
+56,03-01-2023 07:00,Sunday,Evening,Chennai,Truck,Damaged,Clear,Daylight,Signal Jump,Minor
+57,03-01-2023 08:00,Tuesday,Afternoon,Mumbai,Auto,Dry,Storm,Dark - Street Light,Overspeed,Minor
+58,03-01-2023 09:00,Thursday,Evening,Bangalore,Cycle,Snow,Storm,Dark - No Light,Wrong Turn,Fatal
+59,03-01-2023 10:00,Monday,Morning,Pune,Truck,Damaged,Clear,Dark - Street Light,Drunk Driving,Fatal
+60,03-01-2023 11:00,Thursday,Morning,Hyderabad,Bike,Dry,Storm,Dark - Street Light,Signal Jump,Minor
+61,03-01-2023 12:00,Saturday,Afternoon,Bangalore,Cycle,Dry,Storm,Dark - No Light,Drunk Driving,Fatal
+62,03-01-2023 13:00,Tuesday,Night,Pune,Cycle,Damaged,Clear,Daylight,Mechanical Failure,Serious
+63,03-01-2023 14:00,Tuesday,Night,Mumbai,Truck,Snow,Clear,Daylight,Overspeed,Minor
+64,03-01-2023 15:00,Monday,Afternoon,Kolkata,Bus,Dry,Foggy,Daylight,Wrong Turn,Minor
+65,03-01-2023 16:00,Tuesday,Afternoon,Mumbai,Truck,Wet,Rainy,Daylight,Mechanical Failure,Serious
+66,03-01-2023 17:00,Friday,Morning,Delhi,Cycle,Snow,Rainy,Dark - No Light,Mechanical Failure,Serious
+67,03-01-2023 18:00,Tuesday,Night,Chennai,Bike,Snow,Clear,Dark - No Light,Mechanical Failure,Serious
+68,03-01-2023 19:00,Thursday,Evening,Delhi,Cycle,Damaged,Clear,Dark - No Light,Overspeed,Fatal
+69,03-01-2023 20:00,Thursday,Morning,Hyderabad,Bike,Damaged,Storm,Dark - Street Light,Signal Jump,Minor
+70,03-01-2023 21:00,Sunday,Afternoon,Bangalore,Car,Wet,Foggy,Dark - No Light,Overspeed,Fatal
+71,03-01-2023 22:00,Thursday,Night,Hyderabad,Auto,Dry,Foggy,Daylight,Signal Jump,Serious
+72,03-01-2023 23:00,Sunday,Evening,Kolkata,Cycle,Damaged,Clear,Dark - Street Light,Mechanical Failure,Fatal
+73,04-01-2023 00:00,Thursday,Evening,Pune,Truck,Damaged,Storm,Daylight,Mechanical Failure,Serious
+74,04-01-2023 01:00,Friday,Morning,Mumbai,Car,Snow,Storm,Daylight,Wrong Turn,Fatal
+75,04-01-2023 02:00,Sunday,Night,Delhi,Auto,Damaged,Rainy,Dark - No Light,Signal Jump,Fatal
+76,04-01-2023 03:00,Wednesday,Night,Delhi,Truck,Damaged,Rainy,Dark - No Light,Mechanical Failure,Serious
+77,04-01-2023 04:00,Saturday,Afternoon,Kolkata,Bus,Damaged,Storm,Daylight,Drunk Driving,Fatal
+78,04-01-2023 05:00,Monday,Night,Delhi,Truck,Damaged,Rainy,Daylight,Wrong Turn,Minor
+79,04-01-2023 06:00,Thursday,Night,Kolkata,Bike,Snow,Clear,Dark - Street Light,Overspeed,Fatal
+80,04-01-2023 07:00,Tuesday,Morning,Hyderabad,Bike,Wet,Storm,Dark - No Light,Wrong Turn,Fatal
+81,04-01-2023 08:00,Thursday,Night,Mumbai,Bus,Wet,Rainy,Dark - Street Light,Drunk Driving,Minor
+82,04-01-2023 09:00,Tuesday,Evening,Bangalore,Car,Dry,Foggy,Dark - Street Light,Signal Jump,Serious
+83,04-01-2023 10:00,Saturday,Morning,Pune,Auto,Damaged,Storm,Dark - Street Light,Overspeed,Minor
+84,04-01-2023 11:00,Saturday,Morning,Bangalore,Truck,Snow,Storm,Daylight,Overspeed,Fatal
+85,04-01-2023 12:00,Saturday,Afternoon,Hyderabad,Bike,Dry,Foggy,Dark - Street Light,Signal Jump,Serious
+86,04-01-2023 13:00,Tuesday,Night,Pune,Car,Dry,Clear,Dark - Street Light,Wrong Turn,Fatal
+87,04-01-2023 14:00,Thursday,Afternoon,Delhi,Bus,Wet,Foggy,Daylight,Mechanical Failure,Fatal
+88,04-01-2023 15:00,Saturday,Evening,Chennai,Cycle,Snow,Storm,Dark - No Light,Wrong Turn,Minor
+89,04-01-2023 16:00,Friday,Morning,Hyderabad,Bike,Snow,Clear,Dark - No Light,Drunk Driving,Minor
+90,04-01-2023 17:00,Sunday,Morning,Hyderabad,Bus,Snow,Rainy,Dark - Street Light,Mechanical Failure,Serious
+91,04-01-2023 18:00,Tuesday,Morning,Mumbai,Truck,Wet,Rainy,Daylight,Wrong Turn,Serious
+92,04-01-2023 19:00,Tuesday,Evening,Bangalore,Auto,Wet,Rainy,Dark - No Light,Signal Jump,Serious
+93,04-01-2023 20:00,Thursday,Evening,Hyderabad,Bike,Wet,Storm,Dark - Street Light,Drunk Driving,Fatal
+94,04-01-2023 21:00,Tuesday,Afternoon,Hyderabad,Bike,Wet,Foggy,Dark - Street Light,Drunk Driving,Minor
+95,04-01-2023 22:00,Tuesday,Afternoon,Delhi,Truck,Wet,Clear,Daylight,Drunk Driving,Minor
+96,04-01-2023 23:00,Saturday,Afternoon,Delhi,Cycle,Damaged,Rainy,Dark - Street Light,Mechanical Failure,Minor
+97,05-01-2023 00:00,Thursday,Night,Pune,Car,Damaged,Clear,Dark - No Light,Overspeed,Serious
+98,05-01-2023 01:00,Saturday,Morning,Kolkata,Auto,Snow,Storm,Daylight,Mechanical Failure,Minor
+99,05-01-2023 02:00,Sunday,Morning,Kolkata,Bike,Dry,Rainy,Dark - No Light,Wrong Turn,Minor
+100,05-01-2023 03:00,Sunday,Afternoon,Chennai,Auto,Snow,Storm,Dark - No Light,Overspeed,Minor
+101,05-01-2023 04:00,Saturday,Morning,Kolkata,Bike,Dry,Foggy,Dark - No Light,Wrong Turn,Serious
+102,05-01-2023 05:00,Sunday,Afternoon,Mumbai,Auto,Wet,Storm,Dark - Street Light,Overspeed,Minor
+103,05-01-2023 06:00,Thursday,Night,Chennai,Bus,Dry,Storm,Dark - Street Light,Mechanical Failure,Serious
+104,05-01-2023 07:00,Monday,Night,Pune,Bike,Snow,Foggy,Dark - No Light,Drunk Driving,Minor
+105,05-01-2023 08:00,Saturday,Evening,Delhi,Auto,Snow,Clear,Dark - No Light,Signal Jump,Minor
+106,05-01-2023 09:00,Friday,Night,Kolkata,Car,Dry,Foggy,Daylight,Drunk Driving,Minor
+107,05-01-2023 10:00,Friday,Afternoon,Bangalore,Bus,Damaged,Foggy,Daylight,Mechanical Failure,Serious
+108,05-01-2023 11:00,Tuesday,Night,Delhi,Bus,Wet,Storm,Dark - Street Light,Overspeed,Serious
+109,05-01-2023 12:00,Sunday,Evening,Mumbai,Car,Wet,Clear,Dark - Street Light,Drunk Driving,Minor
+110,05-01-2023 13:00,Friday,Morning,Delhi,Auto,Snow,Rainy,Daylight,Mechanical Failure,Fatal
+111,05-01-2023 14:00,Tuesday,Afternoon,Mumbai,Truck,Damaged,Foggy,Dark - No Light,Wrong Turn,Serious
+112,05-01-2023 15:00,Monday,Morning,Mumbai,Car,Dry,Clear,Dark - Street Light,Signal Jump,Serious
+113,05-01-2023 16:00,Thursday,Evening,Mumbai,Auto,Wet,Foggy,Dark - No Light,Drunk Driving,Minor
+114,05-01-2023 17:00,Thursday,Evening,Pune,Car,Damaged,Foggy,Daylight,Overspeed,Fatal
+115,05-01-2023 18:00,Thursday,Evening,Mumbai,Car,Wet,Foggy,Dark - Street Light,Wrong Turn,Minor
+116,05-01-2023 19:00,Friday,Morning,Mumbai,Bike,Damaged,Foggy,Dark - Street Light,Mechanical Failure,Serious
+117,05-01-2023 20:00,Monday,Morning,Bangalore,Auto,Damaged,Storm,Daylight,Signal Jump,Serious
+118,05-01-2023 21:00,Friday,Morning,Chennai,Truck,Snow,Clear,Dark - Street Light,Overspeed,Minor
+119,05-01-2023 22:00,Sunday,Morning,Hyderabad,Bike,Wet,Clear,Daylight,Mechanical Failure,Minor
+120,05-01-2023 23:00,Friday,Evening,Chennai,Car,Dry,Clear,Dark - Street Light,Mechanical Failure,Fatal
+121,06-01-2023 00:00,Monday,Evening,Mumbai,Cycle,Snow,Foggy,Daylight,Drunk Driving,Fatal
+122,06-01-2023 01:00,Monday,Afternoon,Bangalore,Car,Snow,Storm,Dark - Street Light,Drunk Driving,Serious
+123,06-01-2023 02:00,Sunday,Afternoon,Delhi,Car,Dry,Foggy,Dark - No Light,Overspeed,Fatal
+124,06-01-2023 03:00,Monday,Morning,Bangalore,Auto,Snow,Foggy,Dark - No Light,Mechanical Failure,Fatal
+125,06-01-2023 04:00,Monday,Night,Mumbai,Auto,Damaged,Clear,Dark - No Light,Drunk Driving,Serious
+126,06-01-2023 05:00,Thursday,Night,Bangalore,Bike,Damaged,Foggy,Dark - Street Light,Signal Jump,Serious
+127,06-01-2023 06:00,Sunday,Evening,Kolkata,Truck,Wet,Rainy,Dark - Street Light,Signal Jump,Serious
+128,06-01-2023 07:00,Wednesday,Evening,Bangalore,Bike,Wet,Foggy,Dark - No Light,Mechanical Failure,Serious
+129,06-01-2023 08:00,Wednesday,Evening,Mumbai,Bus,Dry,Rainy,Dark - No Light,Drunk Driving,Minor
+130,06-01-2023 09:00,Monday,Afternoon,Pune,Car,Wet,Foggy,Daylight,Overspeed,Serious
+131,06-01-2023 10:00,Wednesday,Afternoon,Kolkata,Cycle,Damaged,Storm,Daylight,Overspeed,Serious
+132,06-01-2023 11:00,Wednesday,Evening,Bangalore,Car,Dry,Storm,Daylight,Overspeed,Serious
+133,06-01-2023 12:00,Monday,Evening,Hyderabad,Car,Dry,Clear,Dark - No Light,Signal Jump,Fatal
+134,06-01-2023 13:00,Wednesday,Evening,Hyderabad,Bike,Wet,Foggy,Dark - No Light,Drunk Driving,Serious
+135,06-01-2023 14:00,Friday,Night,Bangalore,Cycle,Damaged,Rainy,Dark - No Light,Drunk Driving,Minor
+136,06-01-2023 15:00,Tuesday,Afternoon,Pune,Cycle,Dry,Rainy,Daylight,Signal Jump,Minor
+137,06-01-2023 16:00,Sunday,Night,Delhi,Cycle,Damaged,Foggy,Dark - Street Light,Overspeed,Serious
+138,06-01-2023 17:00,Tuesday,Night,Mumbai,Bike,Damaged,Rainy,Dark - No Light,Overspeed,Minor
+139,06-01-2023 18:00,Monday,Evening,Hyderabad,Car,Damaged,Storm,Dark - Street Light,Mechanical Failure,Fatal
+140,06-01-2023 19:00,Thursday,Evening,Delhi,Bike,Wet,Rainy,Dark - Street Light,Wrong Turn,Serious
+141,06-01-2023 20:00,Sunday,Morning,Bangalore,Auto,Snow,Clear,Dark - Street Light,Drunk Driving,Minor
+142,06-01-2023 21:00,Monday,Morning,Delhi,Auto,Snow,Storm,Daylight,Drunk Driving,Minor
+143,06-01-2023 22:00,Thursday,Night,Kolkata,Bike,Dry,Storm,Dark - Street Light,Drunk Driving,Serious
+144,06-01-2023 23:00,Tuesday,Afternoon,Chennai,Cycle,Damaged,Storm,Dark - No Light,Wrong Turn,Minor
+145,07-01-2023 00:00,Monday,Evening,Hyderabad,Car,Wet,Foggy,Daylight,Mechanical Failure,Serious
+146,07-01-2023 01:00,Sunday,Evening,Bangalore,Bike,Damaged,Foggy,Dark - No Light,Wrong Turn,Minor
+147,07-01-2023 02:00,Sunday,Night,Mumbai,Bike,Damaged,Storm,Dark - No Light,Overspeed,Fatal
+148,07-01-2023 03:00,Saturday,Morning,Pune,Bike,Wet,Foggy,Daylight,Overspeed,Minor
+149,07-01-2023 04:00,Friday,Afternoon,Kolkata,Bus,Snow,Rainy,Dark - No Light,Drunk Driving,Minor
+150,07-01-2023 05:00,Wednesday,Morning,Bangalore,Auto,Damaged,Foggy,Dark - No Light,Signal Jump,Serious
+151,07-01-2023 06:00,Thursday,Morning,Mumbai,Cycle,Damaged,Foggy,Daylight,Drunk Driving,Minor
+152,07-01-2023 07:00,Saturday,Morning,Pune,Truck,Snow,Storm,Dark - No Light,Signal Jump,Serious
+153,07-01-2023 08:00,Wednesday,Morning,Pune,Cycle,Wet,Clear,Dark - Street Light,Wrong Turn,Fatal
+154,07-01-2023 09:00,Wednesday,Evening,Bangalore,Truck,Dry,Clear,Dark - No Light,Overspeed,Serious
+155,07-01-2023 10:00,Monday,Evening,Kolkata,Bus,Snow,Clear,Dark - Street Light,Signal Jump,Serious
+156,07-01-2023 11:00,Wednesday,Morning,Delhi,Bike,Dry,Rainy,Dark - No Light,Wrong Turn,Minor
+157,07-01-2023 12:00,Friday,Afternoon,Delhi,Bus,Dry,Foggy,Daylight,Overspeed,Fatal
+158,07-01-2023 13:00,Sunday,Night,Pune,Bus,Snow,Clear,Daylight,Signal Jump,Serious
+159,07-01-2023 14:00,Saturday,Afternoon,Delhi,Car,Damaged,Storm,Dark - No Light,Drunk Driving,Minor
+160,07-01-2023 15:00,Wednesday,Afternoon,Chennai,Auto,Dry,Clear,Daylight,Drunk Driving,Minor
+161,07-01-2023 16:00,Monday,Afternoon,Pune,Truck,Dry,Clear,Dark - No Light,Drunk Driving,Serious
+162,07-01-2023 17:00,Friday,Morning,Pune,Bike,Wet,Foggy,Daylight,Wrong Turn,Minor
+163,07-01-2023 18:00,Tuesday,Evening,Mumbai,Truck,Damaged,Foggy,Dark - Street Light,Drunk Driving,Serious
+164,07-01-2023 19:00,Sunday,Afternoon,Delhi,Cycle,Dry,Foggy,Dark - No Light,Mechanical Failure,Serious
+165,07-01-2023 20:00,Sunday,Morning,Kolkata,Truck,Wet,Rainy,Dark - Street Light,Overspeed,Serious
+166,07-01-2023 21:00,Saturday,Afternoon,Pune,Cycle,Damaged,Rainy,Dark - Street Light,Wrong Turn,Fatal
+167,07-01-2023 22:00,Sunday,Afternoon,Kolkata,Auto,Snow,Clear,Dark - No Light,Drunk Driving,Serious
+168,07-01-2023 23:00,Wednesday,Morning,Chennai,Cycle,Snow,Foggy,Dark - Street Light,Overspeed,Minor
+169,08-01-2023 00:00,Monday,Evening,Mumbai,Truck,Wet,Clear,Dark - No Light,Signal Jump,Fatal
+170,08-01-2023 01:00,Sunday,Evening,Bangalore,Truck,Snow,Storm,Dark - Street Light,Drunk Driving,Minor
+171,08-01-2023 02:00,Sunday,Night,Kolkata,Cycle,Dry,Storm,Dark - No Light,Overspeed,Fatal
+172,08-01-2023 03:00,Tuesday,Morning,Pune,Bus,Damaged,Foggy,Dark - No Light,Mechanical Failure,Fatal
+173,08-01-2023 04:00,Tuesday,Night,Chennai,Auto,Dry,Foggy,Daylight,Signal Jump,Fatal
+174,08-01-2023 05:00,Thursday,Night,Hyderabad,Car,Dry,Storm,Dark - No Light,Mechanical Failure,Fatal
+175,08-01-2023 06:00,Friday,Night,Chennai,Bike,Snow,Foggy,Dark - No Light,Overspeed,Minor
+176,08-01-2023 07:00,Wednesday,Evening,Chennai,Truck,Dry,Rainy,Dark - Street Light,Mechanical Failure,Serious
+177,08-01-2023 08:00,Sunday,Morning,Mumbai,Bike,Snow,Rainy,Dark - No Light,Overspeed,Minor
+178,08-01-2023 09:00,Sunday,Night,Bangalore,Car,Damaged,Foggy,Daylight,Overspeed,Serious
+179,08-01-2023 10:00,Monday,Morning,Hyderabad,Bike,Damaged,Storm,Dark - Street Light,Mechanical Failure,Minor
+180,08-01-2023 11:00,Thursday,Morning,Delhi,Car,Dry,Clear,Dark - Street Light,Overspeed,Fatal
+181,08-01-2023 12:00,Friday,Evening,Delhi,Cycle,Wet,Foggy,Daylight,Drunk Driving,Fatal
+182,08-01-2023 13:00,Thursday,Night,Kolkata,Bus,Snow,Foggy,Dark - Street Light,Overspeed,Serious
+183,08-01-2023 14:00,Saturday,Night,Chennai,Truck,Snow,Clear,Dark - Street Light,Wrong Turn,Serious
+184,08-01-2023 15:00,Friday,Morning,Mumbai,Car,Dry,Foggy,Dark - Street Light,Overspeed,Minor
+185,08-01-2023 16:00,Sunday,Afternoon,Mumbai,Bike,Snow,Clear,Dark - Street Light,Wrong Turn,Serious
+186,08-01-2023 17:00,Sunday,Evening,Delhi,Truck,Snow,Storm,Daylight,Overspeed,Minor
+187,08-01-2023 18:00,Friday,Evening,Kolkata,Bus,Wet,Rainy,Daylight,Overspeed,Serious
+188,08-01-2023 19:00,Sunday,Evening,Kolkata,Cycle,Wet,Storm,Dark - Street Light,Mechanical Failure,Serious
+189,08-01-2023 20:00,Wednesday,Evening,Kolkata,Truck,Dry,Rainy,Dark - Street Light,Drunk Driving,Serious
+190,08-01-2023 21:00,Friday,Night,Hyderabad,Car,Wet,Clear,Daylight,Drunk Driving,Fatal
+191,08-01-2023 22:00,Thursday,Night,Bangalore,Bus,Dry,Rainy,Daylight,Signal Jump,Fatal
+192,08-01-2023 23:00,Friday,Afternoon,Hyderabad,Bike,Damaged,Storm,Daylight,Mechanical Failure,Minor
+193,09-01-2023 00:00,Sunday,Evening,Pune,Bus,Dry,Rainy,Dark - Street Light,Mechanical Failure,Serious
+194,09-01-2023 01:00,Wednesday,Evening,Pune,Bus,Damaged,Clear,Dark - Street Light,Drunk Driving,Minor
+195,09-01-2023 02:00,Wednesday,Morning,Bangalore,Auto,Dry,Rainy,Dark - No Light,Mechanical Failure,Serious
+196,09-01-2023 03:00,Saturday,Night,Delhi,Bus,Snow,Foggy,Daylight,Drunk Driving,Fatal
+197,09-01-2023 04:00,Thursday,Evening,Bangalore,Bus,Wet,Storm,Dark - Street Light,Mechanical Failure,Fatal
+198,09-01-2023 05:00,Tuesday,Afternoon,Mumbai,Truck,Damaged,Foggy,Daylight,Overspeed,Serious
+199,09-01-2023 06:00,Tuesday,Afternoon,Pune,Bike,Dry,Clear,Dark - Street Light,Drunk Driving,Serious
+200,09-01-2023 07:00,Friday,Night,Chennai,Truck,Wet,Rainy,Daylight,Drunk Driving,Fatal
+201,09-01-2023 08:00,Saturday,Afternoon,Chennai,Truck,Dry,Foggy,Dark - Street Light,Wrong Turn,Fatal
+202,09-01-2023 09:00,Monday,Afternoon,Delhi,Car,Wet,Foggy,Dark - No Light,Mechanical Failure,Minor
+203,09-01-2023 10:00,Friday,Night,Mumbai,Truck,Wet,Rainy,Dark - No Light,Mechanical Failure,Fatal
+204,09-01-2023 11:00,Saturday,Evening,Hyderabad,Auto,Dry,Rainy,Daylight,Drunk Driving,Serious
+205,09-01-2023 12:00,Thursday,Evening,Mumbai,Auto,Damaged,Storm,Dark - Street Light,Overspeed,Minor
+206,09-01-2023 13:00,Thursday,Afternoon,Chennai,Car,Damaged,Foggy,Dark - Street Light,Overspeed,Serious
+207,09-01-2023 14:00,Thursday,Afternoon,Chennai,Cycle,Snow,Foggy,Daylight,Overspeed,Minor
+208,09-01-2023 15:00,Thursday,Evening,Pune,Bike,Wet,Clear,Dark - Street Light,Mechanical Failure,Serious
+209,09-01-2023 16:00,Thursday,Night,Mumbai,Bike,Snow,Storm,Daylight,Wrong Turn,Fatal
+210,09-01-2023 17:00,Saturday,Afternoon,Mumbai,Truck,Snow,Clear,Dark - Street Light,Drunk Driving,Serious
+211,09-01-2023 18:00,Saturday,Morning,Chennai,Truck,Dry,Foggy,Daylight,Signal Jump,Minor
+212,09-01-2023 19:00,Wednesday,Night,Hyderabad,Cycle,Dry,Clear,Dark - Street Light,Wrong Turn,Serious
+213,09-01-2023 20:00,Tuesday,Afternoon,Delhi,Truck,Dry,Foggy,Daylight,Signal Jump,Minor
+214,09-01-2023 21:00,Sunday,Afternoon,Kolkata,Bike,Wet,Foggy,Dark - Street Light,Wrong Turn,Serious
+215,09-01-2023 22:00,Thursday,Morning,Delhi,Bus,Dry,Clear,Dark - No Light,Overspeed,Fatal
+216,09-01-2023 23:00,Monday,Morning,Mumbai,Auto,Dry,Clear,Dark - Street Light,Mechanical Failure,Fatal
+217,10-01-2023 00:00,Sunday,Evening,Delhi,Bus,Wet,Rainy,Daylight,Signal Jump,Serious
+218,10-01-2023 01:00,Saturday,Night,Chennai,Bus,Wet,Rainy,Dark - No Light,Wrong Turn,Serious
+219,10-01-2023 02:00,Monday,Night,Chennai,Bike,Damaged,Rainy,Dark - Street Light,Mechanical Failure,Serious
+220,10-01-2023 03:00,Monday,Evening,Mumbai,Bus,Dry,Foggy,Dark - No Light,Signal Jump,Minor
+221,10-01-2023 04:00,Monday,Night,Mumbai,Cycle,Dry,Clear,Dark - Street Light,Drunk Driving,Serious
+222,10-01-2023 05:00,Wednesday,Night,Kolkata,Car,Dry,Storm,Dark - No Light,Wrong Turn,Serious
+223,10-01-2023 06:00,Saturday,Night,Kolkata,Truck,Damaged,Foggy,Daylight,Drunk Driving,Minor
+224,10-01-2023 07:00,Monday,Night,Pune,Car,Dry,Storm,Dark - Street Light,Overspeed,Fatal
+225,10-01-2023 08:00,Thursday,Night,Mumbai,Auto,Damaged,Clear,Dark - Street Light,Drunk Driving,Serious
+226,10-01-2023 09:00,Friday,Morning,Hyderabad,Truck,Snow,Foggy,Daylight,Drunk Driving,Serious
+227,10-01-2023 10:00,Monday,Night,Delhi,Bus,Damaged,Storm,Dark - No Light,Wrong Turn,Fatal
+228,10-01-2023 11:00,Wednesday,Morning,Mumbai,Auto,Snow,Storm,Daylight,Overspeed,Fatal
+229,10-01-2023 12:00,Sunday,Night,Bangalore,Truck,Dry,Rainy,Daylight,Drunk Driving,Minor
+230,10-01-2023 13:00,Saturday,Evening,Pune,Cycle,Snow,Rainy,Dark - No Light,Mechanical Failure,Serious
+231,10-01-2023 14:00,Wednesday,Afternoon,Bangalore,Cycle,Damaged,Rainy,Daylight,Signal Jump,Serious
+232,10-01-2023 15:00,Monday,Morning,Chennai,Cycle,Wet,Foggy,Dark - Street Light,Drunk Driving,Minor
+233,10-01-2023 16:00,Saturday,Night,Kolkata,Cycle,Snow,Clear,Dark - Street Light,Overspeed,Fatal
+234,10-01-2023 17:00,Friday,Evening,Delhi,Bus,Snow,Clear,Dark - Street Light,Drunk Driving,Minor
+235,10-01-2023 18:00,Monday,Afternoon,Mumbai,Car,Dry,Rainy,Daylight,Signal Jump,Fatal
+236,10-01-2023 19:00,Wednesday,Morning,Bangalore,Truck,Damaged,Rainy,Dark - Street Light,Overspeed,Minor
+237,10-01-2023 20:00,Tuesday,Afternoon,Delhi,Bus,Snow,Rainy,Dark - Street Light,Wrong Turn,Fatal
+238,10-01-2023 21:00,Thursday,Evening,Chennai,Cycle,Snow,Storm,Dark - Street Light,Overspeed,Minor
+239,10-01-2023 22:00,Sunday,Morning,Kolkata,Car,Snow,Rainy,Dark - Street Light,Wrong Turn,Fatal
+240,10-01-2023 23:00,Wednesday,Afternoon,Hyderabad,Auto,Snow,Storm,Dark - Street Light,Overspeed,Fatal
+241,11-01-2023 00:00,Saturday,Night,Pune,Auto,Wet,Clear,Dark - Street Light,Signal Jump,Fatal
+242,11-01-2023 01:00,Monday,Morning,Delhi,Auto,Damaged,Foggy,Daylight,Signal Jump,Fatal
+243,11-01-2023 02:00,Thursday,Afternoon,Delhi,Cycle,Dry,Foggy,Dark - Street Light,Overspeed,Fatal
+244,11-01-2023 03:00,Monday,Evening,Hyderabad,Auto,Dry,Foggy,Dark - Street Light,Drunk Driving,Serious
+245,11-01-2023 04:00,Saturday,Evening,Delhi,Bike,Wet,Foggy,Dark - No Light,Signal Jump,Fatal
+246,11-01-2023 05:00,Monday,Morning,Chennai,Truck,Damaged,Storm,Daylight,Wrong Turn,Serious
+247,11-01-2023 06:00,Tuesday,Afternoon,Chennai,Truck,Snow,Storm,Daylight,Wrong Turn,Fatal
+248,11-01-2023 07:00,Thursday,Morning,Hyderabad,Cycle,Wet,Rainy,Daylight,Mechanical Failure,Serious
+249,11-01-2023 08:00,Thursday,Morning,Pune,Bike,Damaged,Storm,Daylight,Wrong Turn,Serious
+250,11-01-2023 09:00,Saturday,Afternoon,Mumbai,Bus,Snow,Rainy,Dark - Street Light,Mechanical Failure,Minor
+251,11-01-2023 10:00,Sunday,Afternoon,Bangalore,Bus,Wet,Rainy,Dark - Street Light,Overspeed,Fatal
+252,11-01-2023 11:00,Tuesday,Night,Mumbai,Auto,Damaged,Foggy,Dark - No Light,Overspeed,Minor
+253,11-01-2023 12:00,Wednesday,Afternoon,Delhi,Car,Dry,Storm,Dark - No Light,Overspeed,Minor
+254,11-01-2023 13:00,Monday,Evening,Bangalore,Bus,Dry,Storm,Daylight,Drunk Driving,Fatal
+255,11-01-2023 14:00,Friday,Morning,Hyderabad,Car,Damaged,Rainy,Dark - No Light,Drunk Driving,Minor
+256,11-01-2023 15:00,Monday,Morning,Hyderabad,Truck,Dry,Rainy,Dark - No Light,Mechanical Failure,Fatal
+257,11-01-2023 16:00,Monday,Evening,Pune,Car,Damaged,Clear,Daylight,Wrong Turn,Minor
+258,11-01-2023 17:00,Wednesday,Afternoon,Bangalore,Truck,Snow,Clear,Daylight,Wrong Turn,Fatal
+259,11-01-2023 18:00,Monday,Evening,Chennai,Bike,Damaged,Rainy,Dark - No Light,Overspeed,Fatal
+260,11-01-2023 19:00,Tuesday,Evening,Bangalore,Bike,Snow,Clear,Dark - Street Light,Signal Jump,Fatal
+261,11-01-2023 20:00,Tuesday,Night,Delhi,Cycle,Wet,Clear,Dark - No Light,Drunk Driving,Serious
+262,11-01-2023 21:00,Thursday,Evening,Chennai,Cycle,Damaged,Rainy,Dark - No Light,Drunk Driving,Minor
+263,11-01-2023 22:00,Saturday,Morning,Kolkata,Auto,Wet,Rainy,Dark - Street Light,Overspeed,Serious
+264,11-01-2023 23:00,Sunday,Evening,Kolkata,Bus,Dry,Storm,Dark - Street Light,Drunk Driving,Minor
+265,12-01-2023 00:00,Friday,Morning,Kolkata,Auto,Snow,Rainy,Daylight,Overspeed,Minor
+266,12-01-2023 01:00,Monday,Morning,Hyderabad,Truck,Damaged,Rainy,Daylight,Mechanical Failure,Minor
+267,12-01-2023 02:00,Monday,Morning,Bangalore,Auto,Wet,Foggy,Dark - No Light,Wrong Turn,Serious
+268,12-01-2023 03:00,Wednesday,Afternoon,Kolkata,Car,Snow,Storm,Dark - Street Light,Signal Jump,Minor
+269,12-01-2023 04:00,Saturday,Night,Mumbai,Truck,Snow,Storm,Daylight,Wrong Turn,Serious
+270,12-01-2023 05:00,Tuesday,Morning,Pune,Cycle,Dry,Storm,Dark - No Light,Wrong Turn,Fatal
+271,12-01-2023 06:00,Friday,Morning,Mumbai,Bike,Dry,Foggy,Dark - Street Light,Mechanical Failure,Minor
+272,12-01-2023 07:00,Thursday,Afternoon,Kolkata,Cycle,Snow,Rainy,Dark - No Light,Drunk Driving,Minor
+273,12-01-2023 08:00,Tuesday,Morning,Pune,Bus,Snow,Storm,Daylight,Signal Jump,Fatal
+274,12-01-2023 09:00,Saturday,Evening,Delhi,Truck,Damaged,Storm,Daylight,Drunk Driving,Fatal
+275,12-01-2023 10:00,Sunday,Evening,Mumbai,Truck,Snow,Clear,Dark - Street Light,Wrong Turn,Minor
+276,12-01-2023 11:00,Thursday,Night,Bangalore,Car,Damaged,Storm,Dark - No Light,Overspeed,Fatal
+277,12-01-2023 12:00,Sunday,Morning,Bangalore,Bus,Snow,Rainy,Dark - Street Light,Wrong Turn,Serious
+278,12-01-2023 13:00,Wednesday,Afternoon,Mumbai,Bike,Dry,Rainy,Daylight,Drunk Driving,Serious
+279,12-01-2023 14:00,Wednesday,Evening,Kolkata,Truck,Damaged,Clear,Daylight,Wrong Turn,Minor
+280,12-01-2023 15:00,Monday,Afternoon,Bangalore,Truck,Wet,Storm,Dark - No Light,Overspeed,Serious
+281,12-01-2023 16:00,Sunday,Afternoon,Delhi,Car,Dry,Storm,Dark - No Light,Mechanical Failure,Serious
+282,12-01-2023 17:00,Saturday,Evening,Chennai,Auto,Damaged,Storm,Dark - No Light,Drunk Driving,Minor
+283,12-01-2023 18:00,Friday,Afternoon,Kolkata,Bike,Damaged,Foggy,Dark - Street Light,Wrong Turn,Fatal
+284,12-01-2023 19:00,Thursday,Evening,Delhi,Cycle,Wet,Storm,Dark - No Light,Drunk Driving,Minor
+285,12-01-2023 20:00,Tuesday,Afternoon,Pune,Bus,Damaged,Rainy,Dark - No Light,Mechanical Failure,Serious
+286,12-01-2023 21:00,Saturday,Evening,Delhi,Truck,Snow,Rainy,Daylight,Wrong Turn,Minor
+287,12-01-2023 22:00,Saturday,Morning,Kolkata,Truck,Wet,Foggy,Daylight,Wrong Turn,Minor
+288,12-01-2023 23:00,Wednesday,Night,Pune,Cycle,Dry,Foggy,Dark - No Light,Drunk Driving,Serious
+289,13-01-2023 00:00,Sunday,Evening,Kolkata,Bike,Dry,Storm,Dark - No Light,Drunk Driving,Serious
+290,13-01-2023 01:00,Monday,Evening,Bangalore,Auto,Snow,Clear,Daylight,Overspeed,Minor
+291,13-01-2023 02:00,Monday,Night,Chennai,Truck,Dry,Foggy,Dark - No Light,Mechanical Failure,Serious
+292,13-01-2023 03:00,Thursday,Evening,Kolkata,Bike,Damaged,Foggy,Dark - Street Light,Overspeed,Serious
+293,13-01-2023 04:00,Wednesday,Evening,Kolkata,Cycle,Damaged,Storm,Dark - Street Light,Wrong Turn,Serious
+294,13-01-2023 05:00,Saturday,Afternoon,Bangalore,Car,Snow,Storm,Dark - Street Light,Drunk Driving,Serious
+295,13-01-2023 06:00,Friday,Night,Hyderabad,Auto,Dry,Foggy,Dark - No Light,Wrong Turn,Serious
+296,13-01-2023 07:00,Wednesday,Morning,Bangalore,Bus,Dry,Clear,Daylight,Wrong Turn,Serious
+297,13-01-2023 08:00,Thursday,Evening,Pune,Truck,Snow,Foggy,Dark - No Light,Signal Jump,Fatal
+298,13-01-2023 09:00,Thursday,Night,Bangalore,Bike,Wet,Storm,Dark - No Light,Signal Jump,Minor
+299,13-01-2023 10:00,Wednesday,Afternoon,Bangalore,Car,Dry,Storm,Daylight,Wrong Turn,Serious
+300,13-01-2023 11:00,Thursday,Morning,Chennai,Bus,Wet,Foggy,Daylight,Drunk Driving,Minor
+301,13-01-2023 12:00,Wednesday,Night,Bangalore,Bike,Dry,Clear,Daylight,Wrong Turn,Fatal
+302,13-01-2023 13:00,Tuesday,Morning,Kolkata,Bike,Dry,Foggy,Dark - Street Light,Signal Jump,Serious
+303,13-01-2023 14:00,Wednesday,Morning,Chennai,Bus,Dry,Foggy,Dark - No Light,Drunk Driving,Minor
+304,13-01-2023 15:00,Sunday,Morning,Mumbai,Car,Dry,Storm,Daylight,Wrong Turn,Serious
+305,13-01-2023 16:00,Wednesday,Evening,Hyderabad,Cycle,Damaged,Clear,Dark - No Light,Mechanical Failure,Serious
+306,13-01-2023 17:00,Thursday,Evening,Chennai,Car,Wet,Rainy,Dark - Street Light,Mechanical Failure,Serious
+307,13-01-2023 18:00,Sunday,Afternoon,Pune,Auto,Wet,Clear,Dark - Street Light,Wrong Turn,Serious
+308,13-01-2023 19:00,Thursday,Afternoon,Mumbai,Truck,Dry,Foggy,Daylight,Drunk Driving,Serious
+309,13-01-2023 20:00,Monday,Night,Chennai,Bus,Dry,Foggy,Daylight,Wrong Turn,Serious
+310,13-01-2023 21:00,Monday,Afternoon,Chennai,Cycle,Wet,Foggy,Dark - No Light,Wrong Turn,Serious
+311,13-01-2023 22:00,Sunday,Morning,Hyderabad,Bus,Damaged,Clear,Daylight,Signal Jump,Fatal
+312,13-01-2023 23:00,Tuesday,Morning,Kolkata,Bus,Snow,Storm,Dark - No Light,Mechanical Failure,Fatal
+313,14-01-2023 00:00,Monday,Evening,Pune,Car,Snow,Foggy,Daylight,Signal Jump,Serious
+314,14-01-2023 01:00,Wednesday,Morning,Delhi,Truck,Wet,Foggy,Dark - No Light,Signal Jump,Serious
+315,14-01-2023 02:00,Thursday,Night,Delhi,Auto,Dry,Clear,Dark - No Light,Wrong Turn,Fatal
+316,14-01-2023 03:00,Monday,Morning,Chennai,Bike,Dry,Rainy,Dark - No Light,Signal Jump,Fatal
+317,14-01-2023 04:00,Monday,Morning,Bangalore,Bike,Damaged,Rainy,Dark - No Light,Mechanical Failure,Fatal
+318,14-01-2023 05:00,Tuesday,Night,Pune,Bus,Snow,Storm,Dark - Street Light,Signal Jump,Serious
+319,14-01-2023 06:00,Sunday,Afternoon,Mumbai,Truck,Damaged,Storm,Dark - No Light,Mechanical Failure,Minor
+320,14-01-2023 07:00,Sunday,Afternoon,Bangalore,Cycle,Snow,Foggy,Daylight,Signal Jump,Minor
+321,14-01-2023 08:00,Saturday,Night,Bangalore,Car,Wet,Clear,Dark - Street Light,Mechanical Failure,Minor
+322,14-01-2023 09:00,Tuesday,Evening,Pune,Truck,Snow,Foggy,Dark - Street Light,Signal Jump,Minor
+323,14-01-2023 10:00,Wednesday,Morning,Kolkata,Truck,Damaged,Storm,Dark - No Light,Signal Jump,Serious
+324,14-01-2023 11:00,Sunday,Night,Chennai,Car,Damaged,Clear,Dark - Street Light,Drunk Driving,Minor
+325,14-01-2023 12:00,Thursday,Morning,Chennai,Bus,Damaged,Clear,Dark - No Light,Mechanical Failure,Fatal
+326,14-01-2023 13:00,Tuesday,Evening,Chennai,Truck,Wet,Storm,Daylight,Mechanical Failure,Fatal
+327,14-01-2023 14:00,Monday,Morning,Chennai,Bike,Snow,Rainy,Dark - No Light,Mechanical Failure,Minor
+328,14-01-2023 15:00,Thursday,Night,Delhi,Car,Snow,Rainy,Dark - Street Light,Overspeed,Fatal
+329,14-01-2023 16:00,Thursday,Morning,Chennai,Cycle,Damaged,Clear,Daylight,Signal Jump,Serious
+330,14-01-2023 17:00,Monday,Afternoon,Delhi,Auto,Snow,Foggy,Dark - No Light,Mechanical Failure,Minor
+331,14-01-2023 18:00,Tuesday,Evening,Delhi,Bus,Dry,Rainy,Daylight,Overspeed,Minor
+332,14-01-2023 19:00,Monday,Evening,Kolkata,Car,Dry,Foggy,Daylight,Drunk Driving,Serious
+333,14-01-2023 20:00,Saturday,Evening,Chennai,Auto,Dry,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+334,14-01-2023 21:00,Thursday,Night,Hyderabad,Auto,Snow,Rainy,Daylight,Mechanical Failure,Serious
+335,14-01-2023 22:00,Friday,Evening,Mumbai,Cycle,Wet,Foggy,Dark - Street Light,Overspeed,Serious
+336,14-01-2023 23:00,Friday,Afternoon,Bangalore,Truck,Wet,Storm,Daylight,Signal Jump,Fatal
+337,15-01-2023 00:00,Wednesday,Night,Delhi,Cycle,Wet,Rainy,Dark - No Light,Drunk Driving,Serious
+338,15-01-2023 01:00,Sunday,Afternoon,Pune,Truck,Wet,Rainy,Daylight,Mechanical Failure,Fatal
+339,15-01-2023 02:00,Monday,Morning,Pune,Truck,Dry,Foggy,Dark - No Light,Signal Jump,Fatal
+340,15-01-2023 03:00,Monday,Morning,Mumbai,Car,Dry,Storm,Dark - No Light,Drunk Driving,Serious
+341,15-01-2023 04:00,Wednesday,Morning,Pune,Car,Damaged,Rainy,Daylight,Wrong Turn,Fatal
+342,15-01-2023 05:00,Wednesday,Morning,Hyderabad,Bus,Snow,Rainy,Dark - No Light,Wrong Turn,Serious
+343,15-01-2023 06:00,Wednesday,Afternoon,Pune,Truck,Snow,Storm,Daylight,Drunk Driving,Fatal
+344,15-01-2023 07:00,Thursday,Night,Bangalore,Auto,Wet,Rainy,Daylight,Overspeed,Minor
+345,15-01-2023 08:00,Saturday,Night,Bangalore,Bike,Dry,Storm,Dark - No Light,Drunk Driving,Fatal
+346,15-01-2023 09:00,Monday,Evening,Delhi,Bus,Wet,Storm,Dark - No Light,Drunk Driving,Fatal
+347,15-01-2023 10:00,Thursday,Afternoon,Chennai,Car,Damaged,Foggy,Dark - Street Light,Overspeed,Serious
+348,15-01-2023 11:00,Wednesday,Morning,Kolkata,Cycle,Snow,Clear,Dark - No Light,Overspeed,Fatal
+349,15-01-2023 12:00,Monday,Afternoon,Hyderabad,Bus,Snow,Storm,Dark - Street Light,Signal Jump,Minor
+350,15-01-2023 13:00,Thursday,Evening,Delhi,Bus,Wet,Foggy,Dark - No Light,Signal Jump,Minor
+351,15-01-2023 14:00,Saturday,Evening,Hyderabad,Bus,Damaged,Clear,Daylight,Overspeed,Fatal
+352,15-01-2023 15:00,Thursday,Afternoon,Chennai,Bus,Snow,Rainy,Dark - No Light,Wrong Turn,Fatal
+353,15-01-2023 16:00,Saturday,Afternoon,Pune,Bike,Damaged,Clear,Daylight,Wrong Turn,Minor
+354,15-01-2023 17:00,Wednesday,Afternoon,Pune,Cycle,Damaged,Storm,Daylight,Drunk Driving,Serious
+355,15-01-2023 18:00,Saturday,Night,Kolkata,Cycle,Wet,Storm,Daylight,Mechanical Failure,Minor
+356,15-01-2023 19:00,Monday,Morning,Chennai,Cycle,Dry,Storm,Dark - Street Light,Drunk Driving,Minor
+357,15-01-2023 20:00,Wednesday,Afternoon,Delhi,Truck,Wet,Storm,Dark - No Light,Drunk Driving,Fatal
+358,15-01-2023 21:00,Monday,Afternoon,Kolkata,Auto,Dry,Storm,Daylight,Mechanical Failure,Fatal
+359,15-01-2023 22:00,Friday,Afternoon,Chennai,Cycle,Damaged,Foggy,Daylight,Overspeed,Minor
+360,15-01-2023 23:00,Tuesday,Evening,Mumbai,Bus,Dry,Storm,Dark - Street Light,Wrong Turn,Serious
+361,16-01-2023 00:00,Saturday,Evening,Bangalore,Bus,Damaged,Foggy,Dark - No Light,Drunk Driving,Minor
+362,16-01-2023 01:00,Tuesday,Night,Kolkata,Cycle,Snow,Rainy,Dark - No Light,Mechanical Failure,Minor
+363,16-01-2023 02:00,Tuesday,Morning,Kolkata,Cycle,Snow,Storm,Dark - Street Light,Signal Jump,Serious
+364,16-01-2023 03:00,Saturday,Night,Delhi,Bus,Snow,Storm,Dark - Street Light,Drunk Driving,Minor
+365,16-01-2023 04:00,Wednesday,Morning,Hyderabad,Truck,Wet,Clear,Dark - No Light,Wrong Turn,Minor
+366,16-01-2023 05:00,Friday,Evening,Mumbai,Car,Wet,Rainy,Dark - Street Light,Overspeed,Fatal
+367,16-01-2023 06:00,Monday,Evening,Delhi,Car,Damaged,Storm,Dark - No Light,Drunk Driving,Serious
+368,16-01-2023 07:00,Thursday,Evening,Chennai,Cycle,Snow,Storm,Dark - No Light,Drunk Driving,Fatal
+369,16-01-2023 08:00,Monday,Night,Chennai,Bike,Wet,Rainy,Daylight,Mechanical Failure,Fatal
+370,16-01-2023 09:00,Thursday,Afternoon,Chennai,Cycle,Snow,Foggy,Daylight,Signal Jump,Serious
+371,16-01-2023 10:00,Monday,Afternoon,Chennai,Cycle,Wet,Storm,Dark - No Light,Signal Jump,Serious
+372,16-01-2023 11:00,Saturday,Evening,Hyderabad,Car,Dry,Clear,Dark - No Light,Overspeed,Minor
+373,16-01-2023 12:00,Friday,Afternoon,Mumbai,Bus,Dry,Storm,Dark - No Light,Wrong Turn,Fatal
+374,16-01-2023 13:00,Thursday,Afternoon,Pune,Cycle,Snow,Clear,Dark - No Light,Overspeed,Serious
+375,16-01-2023 14:00,Sunday,Night,Bangalore,Bus,Damaged,Clear,Dark - No Light,Drunk Driving,Fatal
+376,16-01-2023 15:00,Wednesday,Morning,Hyderabad,Bus,Wet,Storm,Dark - No Light,Drunk Driving,Fatal
+377,16-01-2023 16:00,Monday,Evening,Hyderabad,Bike,Wet,Storm,Dark - Street Light,Signal Jump,Serious
+378,16-01-2023 17:00,Monday,Evening,Pune,Bus,Dry,Clear,Dark - No Light,Wrong Turn,Minor
+379,16-01-2023 18:00,Thursday,Night,Pune,Car,Dry,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+380,16-01-2023 19:00,Wednesday,Night,Bangalore,Truck,Damaged,Rainy,Dark - Street Light,Wrong Turn,Serious
+381,16-01-2023 20:00,Wednesday,Afternoon,Bangalore,Truck,Damaged,Storm,Dark - No Light,Drunk Driving,Minor
+382,16-01-2023 21:00,Saturday,Evening,Pune,Auto,Damaged,Foggy,Dark - No Light,Mechanical Failure,Fatal
+383,16-01-2023 22:00,Sunday,Morning,Chennai,Cycle,Snow,Rainy,Dark - Street Light,Wrong Turn,Serious
+384,16-01-2023 23:00,Saturday,Night,Hyderabad,Car,Dry,Storm,Dark - Street Light,Wrong Turn,Fatal
+385,17-01-2023 00:00,Saturday,Morning,Delhi,Bus,Snow,Rainy,Dark - No Light,Mechanical Failure,Serious
+386,17-01-2023 01:00,Saturday,Morning,Bangalore,Truck,Dry,Foggy,Dark - No Light,Drunk Driving,Serious
+387,17-01-2023 02:00,Saturday,Evening,Bangalore,Car,Dry,Storm,Dark - Street Light,Wrong Turn,Fatal
+388,17-01-2023 03:00,Saturday,Evening,Pune,Truck,Wet,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+389,17-01-2023 04:00,Friday,Night,Mumbai,Bus,Dry,Storm,Dark - Street Light,Drunk Driving,Serious
+390,17-01-2023 05:00,Wednesday,Evening,Delhi,Truck,Dry,Foggy,Daylight,Mechanical Failure,Minor
+391,17-01-2023 06:00,Saturday,Evening,Delhi,Cycle,Snow,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+392,17-01-2023 07:00,Wednesday,Evening,Bangalore,Cycle,Dry,Rainy,Daylight,Wrong Turn,Serious
+393,17-01-2023 08:00,Wednesday,Morning,Chennai,Auto,Snow,Foggy,Dark - No Light,Drunk Driving,Serious
+394,17-01-2023 09:00,Tuesday,Night,Mumbai,Auto,Damaged,Foggy,Dark - No Light,Wrong Turn,Minor
+395,17-01-2023 10:00,Friday,Afternoon,Delhi,Truck,Dry,Foggy,Dark - Street Light,Overspeed,Minor
+396,17-01-2023 11:00,Saturday,Morning,Bangalore,Car,Dry,Storm,Dark - No Light,Overspeed,Minor
+397,17-01-2023 12:00,Monday,Evening,Delhi,Cycle,Snow,Rainy,Dark - No Light,Drunk Driving,Fatal
+398,17-01-2023 13:00,Thursday,Morning,Kolkata,Car,Damaged,Storm,Dark - No Light,Mechanical Failure,Serious
+399,17-01-2023 14:00,Sunday,Evening,Mumbai,Car,Wet,Rainy,Dark - No Light,Wrong Turn,Serious
+400,17-01-2023 15:00,Monday,Evening,Mumbai,Truck,Damaged,Clear,Daylight,Wrong Turn,Serious
+401,17-01-2023 16:00,Friday,Morning,Kolkata,Car,Snow,Storm,Daylight,Drunk Driving,Minor
+402,17-01-2023 17:00,Thursday,Night,Hyderabad,Cycle,Damaged,Rainy,Dark - Street Light,Drunk Driving,Serious
+403,17-01-2023 18:00,Friday,Evening,Kolkata,Bus,Snow,Rainy,Dark - Street Light,Overspeed,Fatal
+404,17-01-2023 19:00,Wednesday,Night,Pune,Auto,Snow,Storm,Dark - Street Light,Signal Jump,Minor
+405,17-01-2023 20:00,Thursday,Afternoon,Pune,Bus,Wet,Storm,Dark - No Light,Drunk Driving,Minor
+406,17-01-2023 21:00,Wednesday,Evening,Bangalore,Car,Dry,Rainy,Dark - No Light,Signal Jump,Minor
+407,17-01-2023 22:00,Monday,Night,Mumbai,Bus,Snow,Storm,Daylight,Drunk Driving,Minor
+408,17-01-2023 23:00,Monday,Night,Hyderabad,Cycle,Snow,Foggy,Daylight,Mechanical Failure,Fatal
+409,18-01-2023 00:00,Thursday,Afternoon,Hyderabad,Cycle,Wet,Storm,Dark - Street Light,Mechanical Failure,Serious
+410,18-01-2023 01:00,Thursday,Night,Delhi,Car,Snow,Storm,Daylight,Overspeed,Fatal
+411,18-01-2023 02:00,Saturday,Night,Delhi,Truck,Dry,Storm,Daylight,Overspeed,Serious
+412,18-01-2023 03:00,Friday,Afternoon,Kolkata,Bus,Wet,Rainy,Daylight,Signal Jump,Fatal
+413,18-01-2023 04:00,Saturday,Evening,Hyderabad,Truck,Dry,Foggy,Daylight,Drunk Driving,Minor
+414,18-01-2023 05:00,Friday,Night,Kolkata,Truck,Dry,Clear,Daylight,Wrong Turn,Minor
+415,18-01-2023 06:00,Saturday,Night,Kolkata,Bike,Wet,Clear,Dark - Street Light,Overspeed,Fatal
+416,18-01-2023 07:00,Wednesday,Night,Delhi,Car,Snow,Foggy,Dark - Street Light,Wrong Turn,Fatal
+417,18-01-2023 08:00,Thursday,Morning,Mumbai,Auto,Dry,Foggy,Daylight,Wrong Turn,Serious
+418,18-01-2023 09:00,Monday,Afternoon,Kolkata,Cycle,Dry,Foggy,Dark - Street Light,Drunk Driving,Fatal
+419,18-01-2023 10:00,Friday,Morning,Chennai,Cycle,Dry,Rainy,Dark - No Light,Signal Jump,Fatal
+420,18-01-2023 11:00,Friday,Afternoon,Mumbai,Car,Dry,Clear,Daylight,Drunk Driving,Serious
+421,18-01-2023 12:00,Monday,Evening,Hyderabad,Auto,Wet,Foggy,Dark - No Light,Overspeed,Serious
+422,18-01-2023 13:00,Saturday,Evening,Hyderabad,Cycle,Wet,Rainy,Dark - Street Light,Wrong Turn,Serious
+423,18-01-2023 14:00,Friday,Night,Kolkata,Car,Damaged,Clear,Dark - Street Light,Drunk Driving,Fatal
+424,18-01-2023 15:00,Sunday,Afternoon,Mumbai,Cycle,Damaged,Storm,Dark - No Light,Drunk Driving,Serious
+425,18-01-2023 16:00,Wednesday,Evening,Delhi,Truck,Dry,Rainy,Dark - Street Light,Drunk Driving,Minor
+426,18-01-2023 17:00,Thursday,Afternoon,Delhi,Bus,Snow,Clear,Daylight,Overspeed,Minor
+427,18-01-2023 18:00,Monday,Evening,Pune,Bus,Dry,Rainy,Dark - No Light,Signal Jump,Minor
+428,18-01-2023 19:00,Thursday,Morning,Hyderabad,Cycle,Snow,Clear,Daylight,Drunk Driving,Fatal
+429,18-01-2023 20:00,Sunday,Evening,Bangalore,Bike,Dry,Clear,Dark - No Light,Overspeed,Minor
+430,18-01-2023 21:00,Friday,Morning,Pune,Auto,Damaged,Storm,Dark - Street Light,Wrong Turn,Fatal
+431,18-01-2023 22:00,Friday,Evening,Delhi,Auto,Damaged,Rainy,Dark - No Light,Mechanical Failure,Fatal
+432,18-01-2023 23:00,Sunday,Night,Mumbai,Auto,Snow,Foggy,Dark - No Light,Overspeed,Minor
+433,19-01-2023 00:00,Monday,Morning,Delhi,Truck,Dry,Storm,Daylight,Mechanical Failure,Serious
+434,19-01-2023 01:00,Wednesday,Evening,Mumbai,Auto,Snow,Storm,Dark - Street Light,Drunk Driving,Fatal
+435,19-01-2023 02:00,Tuesday,Night,Pune,Bus,Damaged,Clear,Daylight,Drunk Driving,Minor
+436,19-01-2023 03:00,Monday,Morning,Hyderabad,Truck,Dry,Foggy,Dark - Street Light,Overspeed,Fatal
+437,19-01-2023 04:00,Tuesday,Night,Delhi,Car,Dry,Rainy,Daylight,Mechanical Failure,Serious
+438,19-01-2023 05:00,Sunday,Afternoon,Kolkata,Auto,Snow,Foggy,Dark - No Light,Drunk Driving,Serious
+439,19-01-2023 06:00,Saturday,Afternoon,Mumbai,Auto,Wet,Foggy,Daylight,Wrong Turn,Minor
+440,19-01-2023 07:00,Tuesday,Morning,Hyderabad,Car,Snow,Foggy,Dark - Street Light,Signal Jump,Fatal
+441,19-01-2023 08:00,Wednesday,Evening,Bangalore,Auto,Damaged,Foggy,Dark - Street Light,Signal Jump,Fatal
+442,19-01-2023 09:00,Saturday,Morning,Mumbai,Car,Damaged,Foggy,Dark - No Light,Drunk Driving,Fatal
+443,19-01-2023 10:00,Tuesday,Night,Pune,Truck,Damaged,Clear,Dark - Street Light,Mechanical Failure,Fatal
+444,19-01-2023 11:00,Sunday,Evening,Bangalore,Bus,Damaged,Clear,Daylight,Drunk Driving,Minor
+445,19-01-2023 12:00,Saturday,Afternoon,Bangalore,Car,Damaged,Storm,Dark - No Light,Mechanical Failure,Serious
+446,19-01-2023 13:00,Sunday,Evening,Chennai,Bike,Wet,Clear,Dark - Street Light,Wrong Turn,Minor
+447,19-01-2023 14:00,Tuesday,Afternoon,Delhi,Car,Dry,Storm,Dark - Street Light,Mechanical Failure,Fatal
+448,19-01-2023 15:00,Sunday,Evening,Mumbai,Auto,Snow,Storm,Daylight,Drunk Driving,Fatal
+449,19-01-2023 16:00,Wednesday,Evening,Bangalore,Truck,Snow,Rainy,Daylight,Wrong Turn,Serious
+450,19-01-2023 17:00,Tuesday,Evening,Chennai,Cycle,Damaged,Foggy,Dark - No Light,Overspeed,Fatal
+451,19-01-2023 18:00,Tuesday,Night,Pune,Truck,Snow,Clear,Dark - Street Light,Signal Jump,Minor
+452,19-01-2023 19:00,Tuesday,Night,Hyderabad,Cycle,Damaged,Rainy,Daylight,Drunk Driving,Minor
+453,19-01-2023 20:00,Monday,Morning,Kolkata,Car,Wet,Clear,Dark - No Light,Drunk Driving,Serious
+454,19-01-2023 21:00,Monday,Morning,Kolkata,Bus,Wet,Storm,Dark - Street Light,Drunk Driving,Minor
+455,19-01-2023 22:00,Monday,Afternoon,Mumbai,Bike,Dry,Clear,Dark - Street Light,Wrong Turn,Minor
+456,19-01-2023 23:00,Wednesday,Night,Bangalore,Truck,Wet,Foggy,Dark - No Light,Overspeed,Minor
+457,20-01-2023 00:00,Saturday,Afternoon,Kolkata,Auto,Wet,Storm,Dark - No Light,Mechanical Failure,Minor
+458,20-01-2023 01:00,Sunday,Morning,Delhi,Cycle,Dry,Storm,Daylight,Overspeed,Fatal
+459,20-01-2023 02:00,Friday,Afternoon,Kolkata,Auto,Snow,Rainy,Dark - Street Light,Wrong Turn,Minor
+460,20-01-2023 03:00,Tuesday,Morning,Kolkata,Bus,Damaged,Foggy,Dark - Street Light,Drunk Driving,Serious
+461,20-01-2023 04:00,Sunday,Night,Kolkata,Cycle,Damaged,Storm,Dark - Street Light,Signal Jump,Serious
+462,20-01-2023 05:00,Tuesday,Evening,Chennai,Truck,Snow,Foggy,Dark - No Light,Drunk Driving,Minor
+463,20-01-2023 06:00,Wednesday,Night,Bangalore,Car,Dry,Clear,Daylight,Mechanical Failure,Serious
+464,20-01-2023 07:00,Tuesday,Afternoon,Delhi,Auto,Snow,Foggy,Dark - Street Light,Signal Jump,Minor
+465,20-01-2023 08:00,Monday,Afternoon,Bangalore,Bus,Wet,Storm,Dark - No Light,Drunk Driving,Serious
+466,20-01-2023 09:00,Friday,Night,Mumbai,Truck,Dry,Rainy,Dark - Street Light,Signal Jump,Serious
+467,20-01-2023 10:00,Thursday,Night,Mumbai,Truck,Dry,Storm,Daylight,Overspeed,Minor
+468,20-01-2023 11:00,Tuesday,Morning,Mumbai,Truck,Dry,Foggy,Dark - Street Light,Wrong Turn,Minor
+469,20-01-2023 12:00,Sunday,Afternoon,Pune,Truck,Damaged,Foggy,Daylight,Drunk Driving,Fatal
+470,20-01-2023 13:00,Monday,Afternoon,Kolkata,Cycle,Snow,Storm,Daylight,Mechanical Failure,Minor
+471,20-01-2023 14:00,Thursday,Night,Pune,Truck,Dry,Foggy,Dark - Street Light,Overspeed,Minor
+472,20-01-2023 15:00,Friday,Evening,Chennai,Auto,Dry,Clear,Dark - Street Light,Drunk Driving,Fatal
+473,20-01-2023 16:00,Thursday,Afternoon,Mumbai,Bus,Dry,Storm,Daylight,Overspeed,Minor
+474,20-01-2023 17:00,Monday,Evening,Delhi,Cycle,Snow,Rainy,Dark - No Light,Mechanical Failure,Minor
+475,20-01-2023 18:00,Saturday,Night,Bangalore,Truck,Damaged,Storm,Daylight,Drunk Driving,Fatal
+476,20-01-2023 19:00,Saturday,Night,Kolkata,Bike,Wet,Clear,Dark - Street Light,Mechanical Failure,Minor
+477,20-01-2023 20:00,Thursday,Morning,Hyderabad,Bike,Damaged,Clear,Dark - Street Light,Signal Jump,Minor
+478,20-01-2023 21:00,Wednesday,Afternoon,Delhi,Bus,Dry,Clear,Dark - No Light,Mechanical Failure,Fatal
+479,20-01-2023 22:00,Sunday,Evening,Kolkata,Car,Damaged,Clear,Daylight,Signal Jump,Fatal
+480,20-01-2023 23:00,Sunday,Morning,Pune,Car,Damaged,Clear,Daylight,Drunk Driving,Serious
+481,21-01-2023 00:00,Thursday,Afternoon,Pune,Cycle,Wet,Rainy,Daylight,Signal Jump,Minor
+482,21-01-2023 01:00,Tuesday,Morning,Delhi,Cycle,Snow,Foggy,Dark - Street Light,Drunk Driving,Serious
+483,21-01-2023 02:00,Tuesday,Night,Pune,Cycle,Snow,Clear,Daylight,Drunk Driving,Serious
+484,21-01-2023 03:00,Sunday,Afternoon,Mumbai,Car,Damaged,Clear,Dark - No Light,Wrong Turn,Fatal
+485,21-01-2023 04:00,Sunday,Morning,Chennai,Bike,Damaged,Storm,Dark - Street Light,Drunk Driving,Minor
+486,21-01-2023 05:00,Saturday,Morning,Bangalore,Car,Snow,Rainy,Dark - Street Light,Signal Jump,Minor
+487,21-01-2023 06:00,Wednesday,Evening,Chennai,Auto,Snow,Rainy,Daylight,Wrong Turn,Fatal
+488,21-01-2023 07:00,Monday,Morning,Kolkata,Truck,Wet,Foggy,Dark - No Light,Wrong Turn,Serious
+489,21-01-2023 08:00,Tuesday,Afternoon,Bangalore,Cycle,Dry,Rainy,Dark - Street Light,Drunk Driving,Fatal
+490,21-01-2023 09:00,Sunday,Afternoon,Bangalore,Bike,Damaged,Storm,Dark - Street Light,Mechanical Failure,Minor
+491,21-01-2023 10:00,Saturday,Evening,Chennai,Bus,Snow,Storm,Daylight,Mechanical Failure,Fatal
+492,21-01-2023 11:00,Friday,Afternoon,Delhi,Bus,Damaged,Foggy,Daylight,Wrong Turn,Minor
+493,21-01-2023 12:00,Saturday,Night,Bangalore,Truck,Damaged,Storm,Dark - No Light,Drunk Driving,Serious
+494,21-01-2023 13:00,Tuesday,Afternoon,Chennai,Bike,Snow,Clear,Daylight,Mechanical Failure,Minor
+495,21-01-2023 14:00,Tuesday,Afternoon,Bangalore,Car,Wet,Clear,Dark - No Light,Drunk Driving,Serious
+496,21-01-2023 15:00,Saturday,Morning,Hyderabad,Car,Damaged,Storm,Dark - Street Light,Drunk Driving,Serious
+497,21-01-2023 16:00,Monday,Morning,Delhi,Auto,Wet,Foggy,Dark - No Light,Wrong Turn,Minor
+498,21-01-2023 17:00,Thursday,Afternoon,Mumbai,Auto,Snow,Rainy,Dark - No Light,Wrong Turn,Minor
+499,21-01-2023 18:00,Tuesday,Evening,Bangalore,Car,Dry,Foggy,Dark - No Light,Overspeed,Serious
+500,21-01-2023 19:00,Saturday,Morning,Hyderabad,Bus,Dry,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+501,21-01-2023 20:00,Sunday,Evening,Mumbai,Cycle,Damaged,Storm,Daylight,Mechanical Failure,Minor
+502,21-01-2023 21:00,Saturday,Afternoon,Mumbai,Bus,Snow,Storm,Dark - Street Light,Mechanical Failure,Serious
+503,21-01-2023 22:00,Wednesday,Afternoon,Kolkata,Auto,Wet,Clear,Daylight,Signal Jump,Serious
+504,21-01-2023 23:00,Thursday,Night,Bangalore,Truck,Damaged,Rainy,Dark - No Light,Drunk Driving,Fatal
+505,22-01-2023 00:00,Friday,Morning,Chennai,Car,Snow,Foggy,Dark - No Light,Wrong Turn,Minor
+506,22-01-2023 01:00,Monday,Afternoon,Bangalore,Auto,Snow,Storm,Dark - No Light,Mechanical Failure,Serious
+507,22-01-2023 02:00,Friday,Night,Hyderabad,Auto,Wet,Foggy,Dark - No Light,Overspeed,Fatal
+508,22-01-2023 03:00,Thursday,Morning,Mumbai,Cycle,Damaged,Clear,Dark - No Light,Mechanical Failure,Serious
+509,22-01-2023 04:00,Thursday,Afternoon,Bangalore,Car,Snow,Rainy,Daylight,Drunk Driving,Minor
+510,22-01-2023 05:00,Thursday,Afternoon,Chennai,Cycle,Snow,Rainy,Daylight,Drunk Driving,Fatal
+511,22-01-2023 06:00,Friday,Morning,Kolkata,Car,Snow,Storm,Dark - No Light,Wrong Turn,Serious
+512,22-01-2023 07:00,Sunday,Morning,Bangalore,Cycle,Wet,Rainy,Dark - Street Light,Signal Jump,Fatal
+513,22-01-2023 08:00,Thursday,Morning,Delhi,Bus,Damaged,Storm,Dark - Street Light,Wrong Turn,Minor
+514,22-01-2023 09:00,Saturday,Afternoon,Kolkata,Truck,Damaged,Clear,Dark - No Light,Mechanical Failure,Fatal
+515,22-01-2023 10:00,Friday,Afternoon,Chennai,Truck,Damaged,Rainy,Daylight,Overspeed,Minor
+516,22-01-2023 11:00,Thursday,Night,Hyderabad,Car,Damaged,Storm,Dark - Street Light,Wrong Turn,Serious
+517,22-01-2023 12:00,Saturday,Evening,Mumbai,Bike,Dry,Foggy,Dark - Street Light,Signal Jump,Minor
+518,22-01-2023 13:00,Sunday,Morning,Bangalore,Auto,Dry,Storm,Dark - Street Light,Wrong Turn,Serious
+519,22-01-2023 14:00,Wednesday,Afternoon,Chennai,Auto,Damaged,Rainy,Dark - No Light,Drunk Driving,Serious
+520,22-01-2023 15:00,Sunday,Afternoon,Kolkata,Car,Wet,Clear,Dark - Street Light,Mechanical Failure,Minor
+521,22-01-2023 16:00,Thursday,Morning,Delhi,Cycle,Dry,Rainy,Dark - Street Light,Mechanical Failure,Serious
+522,22-01-2023 17:00,Friday,Evening,Chennai,Bike,Snow,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+523,22-01-2023 18:00,Tuesday,Morning,Pune,Bus,Dry,Storm,Dark - Street Light,Mechanical Failure,Serious
+524,22-01-2023 19:00,Thursday,Evening,Delhi,Cycle,Snow,Foggy,Daylight,Mechanical Failure,Minor
+525,22-01-2023 20:00,Tuesday,Afternoon,Kolkata,Cycle,Damaged,Rainy,Dark - No Light,Mechanical Failure,Fatal
+526,22-01-2023 21:00,Saturday,Evening,Hyderabad,Car,Dry,Foggy,Dark - No Light,Overspeed,Fatal
+527,22-01-2023 22:00,Wednesday,Night,Mumbai,Car,Wet,Storm,Daylight,Signal Jump,Serious
+528,22-01-2023 23:00,Monday,Afternoon,Kolkata,Auto,Dry,Foggy,Daylight,Mechanical Failure,Serious
+529,23-01-2023 00:00,Sunday,Night,Hyderabad,Car,Dry,Storm,Dark - No Light,Signal Jump,Minor
+530,23-01-2023 01:00,Wednesday,Morning,Bangalore,Car,Dry,Clear,Dark - Street Light,Mechanical Failure,Fatal
+531,23-01-2023 02:00,Thursday,Morning,Chennai,Car,Damaged,Foggy,Dark - Street Light,Wrong Turn,Minor
+532,23-01-2023 03:00,Tuesday,Morning,Pune,Auto,Wet,Foggy,Dark - No Light,Mechanical Failure,Serious
+533,23-01-2023 04:00,Sunday,Evening,Delhi,Bus,Dry,Clear,Dark - Street Light,Drunk Driving,Fatal
+534,23-01-2023 05:00,Tuesday,Afternoon,Delhi,Bus,Wet,Foggy,Daylight,Overspeed,Minor
+535,23-01-2023 06:00,Friday,Morning,Chennai,Car,Damaged,Clear,Dark - Street Light,Wrong Turn,Minor
+536,23-01-2023 07:00,Tuesday,Morning,Pune,Auto,Snow,Rainy,Dark - Street Light,Wrong Turn,Minor
+537,23-01-2023 08:00,Friday,Afternoon,Chennai,Bus,Dry,Storm,Dark - Street Light,Drunk Driving,Minor
+538,23-01-2023 09:00,Saturday,Morning,Bangalore,Cycle,Wet,Clear,Dark - No Light,Mechanical Failure,Minor
+539,23-01-2023 10:00,Sunday,Night,Hyderabad,Bus,Wet,Foggy,Daylight,Overspeed,Fatal
+540,23-01-2023 11:00,Sunday,Afternoon,Kolkata,Bus,Damaged,Clear,Dark - Street Light,Wrong Turn,Minor
+541,23-01-2023 12:00,Monday,Afternoon,Delhi,Auto,Dry,Foggy,Dark - No Light,Overspeed,Fatal
+542,23-01-2023 13:00,Thursday,Afternoon,Bangalore,Cycle,Snow,Rainy,Dark - Street Light,Wrong Turn,Minor
+543,23-01-2023 14:00,Friday,Night,Hyderabad,Auto,Wet,Clear,Daylight,Mechanical Failure,Serious
+544,23-01-2023 15:00,Monday,Afternoon,Bangalore,Car,Dry,Rainy,Dark - Street Light,Wrong Turn,Serious
+545,23-01-2023 16:00,Tuesday,Night,Pune,Truck,Snow,Storm,Daylight,Wrong Turn,Minor
+546,23-01-2023 17:00,Tuesday,Afternoon,Delhi,Bus,Wet,Foggy,Dark - Street Light,Signal Jump,Serious
+547,23-01-2023 18:00,Monday,Evening,Kolkata,Truck,Wet,Foggy,Daylight,Mechanical Failure,Fatal
+548,23-01-2023 19:00,Sunday,Morning,Chennai,Auto,Snow,Rainy,Dark - Street Light,Drunk Driving,Minor
+549,23-01-2023 20:00,Tuesday,Evening,Chennai,Auto,Snow,Storm,Daylight,Drunk Driving,Fatal
+550,23-01-2023 21:00,Saturday,Morning,Hyderabad,Auto,Damaged,Clear,Dark - Street Light,Mechanical Failure,Minor
+551,23-01-2023 22:00,Saturday,Night,Kolkata,Truck,Dry,Clear,Dark - Street Light,Drunk Driving,Serious
+552,23-01-2023 23:00,Monday,Evening,Mumbai,Auto,Dry,Foggy,Dark - No Light,Mechanical Failure,Fatal
+553,24-01-2023 00:00,Friday,Afternoon,Pune,Car,Damaged,Rainy,Dark - No Light,Drunk Driving,Serious
+554,24-01-2023 01:00,Friday,Morning,Hyderabad,Auto,Wet,Rainy,Daylight,Signal Jump,Serious
+555,24-01-2023 02:00,Monday,Morning,Mumbai,Bike,Snow,Clear,Dark - Street Light,Drunk Driving,Minor
+556,24-01-2023 03:00,Friday,Evening,Bangalore,Truck,Snow,Storm,Daylight,Wrong Turn,Fatal
+557,24-01-2023 04:00,Sunday,Night,Pune,Bike,Snow,Storm,Dark - No Light,Mechanical Failure,Serious
+558,24-01-2023 05:00,Sunday,Evening,Bangalore,Auto,Wet,Clear,Daylight,Overspeed,Minor
+559,24-01-2023 06:00,Friday,Night,Kolkata,Car,Snow,Clear,Daylight,Overspeed,Minor
+560,24-01-2023 07:00,Saturday,Night,Delhi,Bus,Snow,Rainy,Dark - No Light,Mechanical Failure,Minor
+561,24-01-2023 08:00,Friday,Morning,Pune,Cycle,Damaged,Storm,Dark - Street Light,Signal Jump,Serious
+562,24-01-2023 09:00,Sunday,Evening,Mumbai,Cycle,Wet,Clear,Daylight,Drunk Driving,Minor
+563,24-01-2023 10:00,Wednesday,Evening,Delhi,Auto,Dry,Clear,Dark - No Light,Signal Jump,Fatal
+564,24-01-2023 11:00,Thursday,Night,Chennai,Car,Damaged,Foggy,Dark - Street Light,Overspeed,Fatal
+565,24-01-2023 12:00,Tuesday,Evening,Mumbai,Truck,Damaged,Clear,Dark - No Light,Mechanical Failure,Serious
+566,24-01-2023 13:00,Wednesday,Afternoon,Hyderabad,Bike,Dry,Clear,Daylight,Mechanical Failure,Fatal
+567,24-01-2023 14:00,Friday,Afternoon,Chennai,Bike,Damaged,Storm,Dark - Street Light,Signal Jump,Minor
+568,24-01-2023 15:00,Saturday,Evening,Chennai,Bike,Wet,Rainy,Dark - Street Light,Signal Jump,Serious
+569,24-01-2023 16:00,Monday,Evening,Hyderabad,Truck,Snow,Storm,Dark - No Light,Drunk Driving,Minor
+570,24-01-2023 17:00,Friday,Night,Pune,Cycle,Wet,Rainy,Dark - No Light,Wrong Turn,Serious
+571,24-01-2023 18:00,Saturday,Afternoon,Chennai,Car,Dry,Foggy,Dark - No Light,Wrong Turn,Serious
+572,24-01-2023 19:00,Thursday,Afternoon,Kolkata,Truck,Dry,Clear,Dark - Street Light,Drunk Driving,Minor
+573,24-01-2023 20:00,Friday,Morning,Mumbai,Bike,Damaged,Foggy,Dark - Street Light,Wrong Turn,Fatal
+574,24-01-2023 21:00,Sunday,Night,Delhi,Auto,Wet,Rainy,Daylight,Overspeed,Fatal
+575,24-01-2023 22:00,Monday,Morning,Chennai,Bus,Wet,Storm,Dark - Street Light,Wrong Turn,Serious
+576,24-01-2023 23:00,Saturday,Afternoon,Mumbai,Truck,Dry,Storm,Daylight,Drunk Driving,Minor
+577,25-01-2023 00:00,Saturday,Night,Bangalore,Truck,Wet,Foggy,Dark - No Light,Wrong Turn,Minor
+578,25-01-2023 01:00,Saturday,Evening,Mumbai,Car,Dry,Rainy,Dark - No Light,Mechanical Failure,Serious
+579,25-01-2023 02:00,Thursday,Night,Delhi,Car,Wet,Foggy,Dark - Street Light,Signal Jump,Fatal
+580,25-01-2023 03:00,Friday,Evening,Mumbai,Truck,Wet,Foggy,Dark - No Light,Overspeed,Minor
+581,25-01-2023 04:00,Thursday,Evening,Hyderabad,Bike,Wet,Clear,Dark - No Light,Mechanical Failure,Fatal
+582,25-01-2023 05:00,Tuesday,Night,Delhi,Bus,Dry,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+583,25-01-2023 06:00,Tuesday,Evening,Pune,Car,Damaged,Clear,Daylight,Drunk Driving,Serious
+584,25-01-2023 07:00,Friday,Morning,Bangalore,Bike,Wet,Clear,Dark - Street Light,Signal Jump,Serious
+585,25-01-2023 08:00,Sunday,Afternoon,Hyderabad,Auto,Dry,Storm,Daylight,Signal Jump,Fatal
+586,25-01-2023 09:00,Thursday,Evening,Pune,Car,Dry,Clear,Dark - Street Light,Overspeed,Minor
+587,25-01-2023 10:00,Monday,Morning,Mumbai,Bike,Wet,Clear,Dark - Street Light,Drunk Driving,Minor
+588,25-01-2023 11:00,Saturday,Evening,Delhi,Bike,Wet,Storm,Dark - No Light,Overspeed,Serious
+589,25-01-2023 12:00,Saturday,Afternoon,Bangalore,Bus,Damaged,Foggy,Dark - Street Light,Wrong Turn,Fatal
+590,25-01-2023 13:00,Friday,Morning,Hyderabad,Bus,Dry,Rainy,Dark - Street Light,Mechanical Failure,Minor
+591,25-01-2023 14:00,Sunday,Afternoon,Pune,Auto,Dry,Rainy,Daylight,Overspeed,Minor
+592,25-01-2023 15:00,Tuesday,Afternoon,Pune,Bike,Snow,Rainy,Dark - No Light,Mechanical Failure,Serious
+593,25-01-2023 16:00,Tuesday,Morning,Bangalore,Cycle,Dry,Foggy,Daylight,Drunk Driving,Fatal
+594,25-01-2023 17:00,Saturday,Morning,Kolkata,Bike,Damaged,Clear,Daylight,Wrong Turn,Minor
+595,25-01-2023 18:00,Friday,Morning,Mumbai,Bus,Snow,Rainy,Dark - No Light,Drunk Driving,Serious
+596,25-01-2023 19:00,Thursday,Night,Bangalore,Cycle,Snow,Foggy,Dark - No Light,Wrong Turn,Minor
+597,25-01-2023 20:00,Tuesday,Morning,Pune,Car,Snow,Clear,Dark - No Light,Wrong Turn,Minor
+598,25-01-2023 21:00,Thursday,Morning,Chennai,Car,Wet,Storm,Dark - Street Light,Mechanical Failure,Minor
+599,25-01-2023 22:00,Sunday,Morning,Hyderabad,Truck,Wet,Rainy,Dark - No Light,Drunk Driving,Serious
+600,25-01-2023 23:00,Tuesday,Morning,Bangalore,Bus,Dry,Clear,Dark - No Light,Drunk Driving,Fatal
+601,26-01-2023 00:00,Tuesday,Evening,Kolkata,Truck,Snow,Rainy,Dark - No Light,Overspeed,Serious
+602,26-01-2023 01:00,Wednesday,Night,Pune,Cycle,Damaged,Rainy,Daylight,Drunk Driving,Fatal
+603,26-01-2023 02:00,Tuesday,Afternoon,Mumbai,Bus,Wet,Rainy,Daylight,Overspeed,Minor
+604,26-01-2023 03:00,Monday,Morning,Pune,Auto,Damaged,Clear,Dark - Street Light,Signal Jump,Fatal
+605,26-01-2023 04:00,Friday,Evening,Mumbai,Bike,Damaged,Foggy,Daylight,Signal Jump,Minor
+606,26-01-2023 05:00,Friday,Evening,Bangalore,Auto,Wet,Clear,Dark - Street Light,Signal Jump,Minor
+607,26-01-2023 06:00,Thursday,Evening,Mumbai,Cycle,Wet,Rainy,Daylight,Drunk Driving,Serious
+608,26-01-2023 07:00,Sunday,Afternoon,Delhi,Bus,Wet,Clear,Dark - No Light,Drunk Driving,Minor
+609,26-01-2023 08:00,Tuesday,Morning,Delhi,Cycle,Wet,Storm,Daylight,Overspeed,Serious
+610,26-01-2023 09:00,Monday,Night,Delhi,Bike,Snow,Foggy,Dark - Street Light,Wrong Turn,Fatal
+611,26-01-2023 10:00,Thursday,Night,Kolkata,Car,Snow,Clear,Daylight,Overspeed,Fatal
+612,26-01-2023 11:00,Wednesday,Evening,Kolkata,Car,Snow,Storm,Dark - No Light,Signal Jump,Minor
+613,26-01-2023 12:00,Thursday,Afternoon,Chennai,Cycle,Snow,Foggy,Dark - Street Light,Overspeed,Serious
+614,26-01-2023 13:00,Thursday,Afternoon,Kolkata,Truck,Dry,Storm,Dark - No Light,Wrong Turn,Minor
+615,26-01-2023 14:00,Tuesday,Afternoon,Bangalore,Bus,Snow,Foggy,Dark - No Light,Drunk Driving,Serious
+616,26-01-2023 15:00,Wednesday,Night,Pune,Bus,Wet,Clear,Dark - Street Light,Overspeed,Serious
+617,26-01-2023 16:00,Thursday,Evening,Pune,Car,Damaged,Storm,Dark - No Light,Signal Jump,Serious
+618,26-01-2023 17:00,Monday,Morning,Chennai,Auto,Snow,Rainy,Dark - No Light,Signal Jump,Fatal
+619,26-01-2023 18:00,Monday,Night,Kolkata,Bike,Dry,Storm,Daylight,Drunk Driving,Serious
+620,26-01-2023 19:00,Friday,Evening,Mumbai,Auto,Wet,Foggy,Dark - No Light,Overspeed,Fatal
+621,26-01-2023 20:00,Wednesday,Evening,Chennai,Auto,Damaged,Clear,Dark - No Light,Wrong Turn,Serious
+622,26-01-2023 21:00,Wednesday,Morning,Mumbai,Cycle,Damaged,Foggy,Dark - No Light,Drunk Driving,Fatal
+623,26-01-2023 22:00,Friday,Morning,Mumbai,Car,Snow,Storm,Dark - No Light,Overspeed,Fatal
+624,26-01-2023 23:00,Thursday,Morning,Hyderabad,Car,Damaged,Storm,Dark - Street Light,Mechanical Failure,Fatal
+625,27-01-2023 00:00,Wednesday,Afternoon,Pune,Car,Snow,Rainy,Daylight,Signal Jump,Minor
+626,27-01-2023 01:00,Monday,Morning,Delhi,Cycle,Snow,Clear,Dark - No Light,Wrong Turn,Serious
+627,27-01-2023 02:00,Monday,Evening,Kolkata,Truck,Wet,Clear,Dark - No Light,Wrong Turn,Minor
+628,27-01-2023 03:00,Tuesday,Morning,Mumbai,Auto,Wet,Storm,Dark - Street Light,Wrong Turn,Serious
+629,27-01-2023 04:00,Wednesday,Evening,Hyderabad,Cycle,Dry,Clear,Dark - No Light,Signal Jump,Serious
+630,27-01-2023 05:00,Thursday,Night,Pune,Bus,Wet,Rainy,Dark - Street Light,Overspeed,Minor
+631,27-01-2023 06:00,Friday,Afternoon,Delhi,Bike,Wet,Foggy,Daylight,Drunk Driving,Fatal
+632,27-01-2023 07:00,Friday,Night,Mumbai,Truck,Snow,Clear,Daylight,Overspeed,Serious
+633,27-01-2023 08:00,Thursday,Night,Mumbai,Bus,Wet,Storm,Dark - No Light,Drunk Driving,Fatal
+634,27-01-2023 09:00,Sunday,Evening,Chennai,Auto,Snow,Foggy,Dark - No Light,Wrong Turn,Minor
+635,27-01-2023 10:00,Saturday,Night,Chennai,Car,Snow,Foggy,Dark - No Light,Overspeed,Fatal
+636,27-01-2023 11:00,Tuesday,Evening,Pune,Auto,Wet,Rainy,Dark - Street Light,Wrong Turn,Serious
+637,27-01-2023 12:00,Friday,Morning,Delhi,Cycle,Dry,Storm,Dark - No Light,Mechanical Failure,Serious
+638,27-01-2023 13:00,Wednesday,Morning,Mumbai,Bike,Dry,Clear,Dark - No Light,Wrong Turn,Serious
+639,27-01-2023 14:00,Tuesday,Evening,Pune,Cycle,Damaged,Storm,Daylight,Wrong Turn,Minor
+640,27-01-2023 15:00,Wednesday,Morning,Pune,Truck,Damaged,Foggy,Dark - No Light,Drunk Driving,Serious
+641,27-01-2023 16:00,Sunday,Afternoon,Bangalore,Truck,Wet,Storm,Daylight,Mechanical Failure,Minor
+642,27-01-2023 17:00,Monday,Night,Kolkata,Bike,Dry,Clear,Dark - No Light,Wrong Turn,Fatal
+643,27-01-2023 18:00,Tuesday,Afternoon,Chennai,Bus,Snow,Clear,Daylight,Wrong Turn,Serious
+644,27-01-2023 19:00,Friday,Night,Delhi,Bus,Damaged,Rainy,Dark - No Light,Mechanical Failure,Serious
+645,27-01-2023 20:00,Tuesday,Morning,Mumbai,Truck,Snow,Clear,Daylight,Mechanical Failure,Serious
+646,27-01-2023 21:00,Tuesday,Afternoon,Pune,Truck,Damaged,Clear,Dark - Street Light,Overspeed,Fatal
+647,27-01-2023 22:00,Tuesday,Morning,Mumbai,Car,Wet,Storm,Daylight,Drunk Driving,Serious
+648,27-01-2023 23:00,Saturday,Night,Bangalore,Bus,Dry,Storm,Daylight,Mechanical Failure,Minor
+649,28-01-2023 00:00,Tuesday,Evening,Delhi,Bike,Damaged,Foggy,Daylight,Mechanical Failure,Fatal
+650,28-01-2023 01:00,Wednesday,Evening,Pune,Bus,Dry,Rainy,Dark - No Light,Signal Jump,Fatal
+651,28-01-2023 02:00,Monday,Afternoon,Mumbai,Car,Snow,Storm,Dark - No Light,Mechanical Failure,Fatal
+652,28-01-2023 03:00,Sunday,Morning,Chennai,Cycle,Wet,Clear,Dark - No Light,Drunk Driving,Fatal
+653,28-01-2023 04:00,Thursday,Morning,Kolkata,Truck,Dry,Foggy,Dark - Street Light,Wrong Turn,Fatal
+654,28-01-2023 05:00,Tuesday,Afternoon,Bangalore,Truck,Wet,Storm,Dark - Street Light,Wrong Turn,Minor
+655,28-01-2023 06:00,Friday,Evening,Delhi,Car,Dry,Rainy,Daylight,Wrong Turn,Fatal
+656,28-01-2023 07:00,Tuesday,Night,Bangalore,Bike,Snow,Rainy,Dark - Street Light,Wrong Turn,Serious
+657,28-01-2023 08:00,Friday,Afternoon,Chennai,Truck,Snow,Foggy,Daylight,Signal Jump,Fatal
+658,28-01-2023 09:00,Wednesday,Night,Delhi,Auto,Wet,Foggy,Daylight,Mechanical Failure,Fatal
+659,28-01-2023 10:00,Friday,Evening,Bangalore,Truck,Snow,Foggy,Daylight,Wrong Turn,Fatal
+660,28-01-2023 11:00,Thursday,Morning,Hyderabad,Auto,Damaged,Foggy,Dark - Street Light,Overspeed,Fatal
+661,28-01-2023 12:00,Monday,Evening,Chennai,Car,Dry,Foggy,Dark - No Light,Wrong Turn,Fatal
+662,28-01-2023 13:00,Friday,Afternoon,Chennai,Car,Snow,Clear,Dark - Street Light,Mechanical Failure,Minor
+663,28-01-2023 14:00,Friday,Morning,Chennai,Truck,Damaged,Clear,Daylight,Wrong Turn,Minor
+664,28-01-2023 15:00,Monday,Afternoon,Hyderabad,Bus,Wet,Storm,Daylight,Signal Jump,Fatal
+665,28-01-2023 16:00,Thursday,Afternoon,Hyderabad,Auto,Damaged,Rainy,Dark - Street Light,Drunk Driving,Minor
+666,28-01-2023 17:00,Tuesday,Evening,Mumbai,Bike,Wet,Clear,Daylight,Drunk Driving,Serious
+667,28-01-2023 18:00,Friday,Afternoon,Pune,Truck,Wet,Clear,Daylight,Mechanical Failure,Fatal
+668,28-01-2023 19:00,Monday,Evening,Kolkata,Bike,Dry,Clear,Dark - Street Light,Drunk Driving,Serious
+669,28-01-2023 20:00,Wednesday,Morning,Bangalore,Truck,Dry,Storm,Dark - Street Light,Drunk Driving,Serious
+670,28-01-2023 21:00,Monday,Evening,Mumbai,Bus,Damaged,Foggy,Dark - Street Light,Overspeed,Fatal
+671,28-01-2023 22:00,Wednesday,Morning,Bangalore,Bus,Dry,Storm,Daylight,Mechanical Failure,Serious
+672,28-01-2023 23:00,Thursday,Evening,Kolkata,Bus,Dry,Rainy,Daylight,Mechanical Failure,Serious
+673,29-01-2023 00:00,Tuesday,Night,Pune,Cycle,Dry,Rainy,Dark - No Light,Drunk Driving,Serious
+674,29-01-2023 01:00,Monday,Night,Hyderabad,Bus,Damaged,Rainy,Dark - No Light,Drunk Driving,Fatal
+675,29-01-2023 02:00,Sunday,Afternoon,Pune,Car,Snow,Rainy,Dark - Street Light,Drunk Driving,Fatal
+676,29-01-2023 03:00,Sunday,Evening,Hyderabad,Car,Dry,Clear,Dark - No Light,Signal Jump,Serious
+677,29-01-2023 04:00,Saturday,Evening,Kolkata,Cycle,Dry,Clear,Daylight,Wrong Turn,Fatal
+678,29-01-2023 05:00,Friday,Morning,Pune,Auto,Damaged,Storm,Dark - No Light,Signal Jump,Fatal
+679,29-01-2023 06:00,Thursday,Afternoon,Mumbai,Bike,Snow,Foggy,Daylight,Mechanical Failure,Serious
+680,29-01-2023 07:00,Monday,Evening,Delhi,Truck,Dry,Rainy,Dark - Street Light,Overspeed,Fatal
+681,29-01-2023 08:00,Sunday,Afternoon,Mumbai,Truck,Wet,Storm,Dark - Street Light,Wrong Turn,Minor
+682,29-01-2023 09:00,Friday,Night,Bangalore,Cycle,Damaged,Clear,Daylight,Overspeed,Fatal
+683,29-01-2023 10:00,Sunday,Evening,Mumbai,Car,Dry,Clear,Dark - No Light,Mechanical Failure,Minor
+684,29-01-2023 11:00,Monday,Evening,Kolkata,Truck,Dry,Foggy,Dark - Street Light,Mechanical Failure,Serious
+685,29-01-2023 12:00,Wednesday,Afternoon,Chennai,Car,Wet,Foggy,Dark - Street Light,Overspeed,Fatal
+686,29-01-2023 13:00,Monday,Evening,Bangalore,Auto,Wet,Foggy,Dark - No Light,Overspeed,Serious
+687,29-01-2023 14:00,Saturday,Afternoon,Pune,Bike,Damaged,Storm,Dark - No Light,Overspeed,Serious
+688,29-01-2023 15:00,Monday,Evening,Bangalore,Auto,Damaged,Clear,Daylight,Mechanical Failure,Serious
+689,29-01-2023 16:00,Monday,Morning,Delhi,Cycle,Wet,Clear,Dark - No Light,Drunk Driving,Serious
+690,29-01-2023 17:00,Saturday,Afternoon,Hyderabad,Bus,Damaged,Foggy,Dark - No Light,Overspeed,Serious
+691,29-01-2023 18:00,Thursday,Evening,Pune,Bus,Wet,Rainy,Dark - No Light,Wrong Turn,Fatal
+692,29-01-2023 19:00,Monday,Night,Bangalore,Bus,Dry,Foggy,Daylight,Mechanical Failure,Minor
+693,29-01-2023 20:00,Saturday,Evening,Pune,Auto,Wet,Storm,Daylight,Signal Jump,Fatal
+694,29-01-2023 21:00,Friday,Night,Pune,Truck,Wet,Foggy,Dark - Street Light,Signal Jump,Fatal
+695,29-01-2023 22:00,Wednesday,Night,Pune,Bike,Snow,Foggy,Daylight,Wrong Turn,Fatal
+696,29-01-2023 23:00,Wednesday,Morning,Hyderabad,Bus,Wet,Storm,Dark - Street Light,Drunk Driving,Fatal
+697,30-01-2023 00:00,Monday,Afternoon,Kolkata,Cycle,Wet,Foggy,Dark - No Light,Overspeed,Minor
+698,30-01-2023 01:00,Thursday,Evening,Mumbai,Cycle,Snow,Clear,Dark - Street Light,Mechanical Failure,Fatal
+699,30-01-2023 02:00,Thursday,Morning,Pune,Bus,Damaged,Rainy,Dark - Street Light,Overspeed,Serious
+700,30-01-2023 03:00,Friday,Evening,Chennai,Bus,Snow,Foggy,Dark - No Light,Mechanical Failure,Fatal
+701,30-01-2023 04:00,Monday,Night,Kolkata,Bike,Dry,Storm,Dark - Street Light,Signal Jump,Fatal
+702,30-01-2023 05:00,Wednesday,Afternoon,Delhi,Bus,Snow,Rainy,Daylight,Overspeed,Minor
+703,30-01-2023 06:00,Thursday,Evening,Hyderabad,Bike,Dry,Storm,Daylight,Wrong Turn,Minor
+704,30-01-2023 07:00,Monday,Evening,Bangalore,Cycle,Damaged,Rainy,Daylight,Drunk Driving,Serious
+705,30-01-2023 08:00,Sunday,Night,Hyderabad,Bus,Snow,Rainy,Daylight,Wrong Turn,Fatal
+706,30-01-2023 09:00,Thursday,Evening,Bangalore,Auto,Snow,Foggy,Dark - Street Light,Drunk Driving,Fatal
+707,30-01-2023 10:00,Saturday,Evening,Hyderabad,Auto,Damaged,Clear,Dark - Street Light,Overspeed,Fatal
+708,30-01-2023 11:00,Sunday,Night,Bangalore,Cycle,Dry,Foggy,Dark - No Light,Overspeed,Serious
+709,30-01-2023 12:00,Thursday,Morning,Pune,Bike,Snow,Storm,Dark - Street Light,Drunk Driving,Minor
+710,30-01-2023 13:00,Wednesday,Night,Mumbai,Auto,Dry,Storm,Dark - Street Light,Signal Jump,Serious
+711,30-01-2023 14:00,Tuesday,Morning,Bangalore,Bike,Snow,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+712,30-01-2023 15:00,Sunday,Afternoon,Bangalore,Auto,Wet,Rainy,Dark - No Light,Wrong Turn,Minor
+713,30-01-2023 16:00,Friday,Morning,Chennai,Auto,Snow,Clear,Daylight,Wrong Turn,Minor
+714,30-01-2023 17:00,Friday,Morning,Bangalore,Bike,Damaged,Foggy,Dark - Street Light,Wrong Turn,Serious
+715,30-01-2023 18:00,Wednesday,Afternoon,Chennai,Truck,Damaged,Storm,Dark - No Light,Overspeed,Minor
+716,30-01-2023 19:00,Thursday,Morning,Delhi,Auto,Dry,Rainy,Dark - No Light,Wrong Turn,Minor
+717,30-01-2023 20:00,Monday,Night,Pune,Bus,Snow,Clear,Dark - No Light,Mechanical Failure,Fatal
+718,30-01-2023 21:00,Thursday,Morning,Chennai,Cycle,Dry,Storm,Daylight,Mechanical Failure,Fatal
+719,30-01-2023 22:00,Wednesday,Afternoon,Mumbai,Truck,Dry,Rainy,Dark - Street Light,Drunk Driving,Minor
+720,30-01-2023 23:00,Friday,Night,Kolkata,Bike,Wet,Storm,Dark - No Light,Overspeed,Minor
+721,31-01-2023 00:00,Thursday,Afternoon,Pune,Truck,Wet,Clear,Daylight,Mechanical Failure,Serious
+722,31-01-2023 01:00,Friday,Afternoon,Chennai,Car,Damaged,Clear,Dark - No Light,Signal Jump,Serious
+723,31-01-2023 02:00,Sunday,Evening,Pune,Car,Dry,Storm,Dark - No Light,Overspeed,Minor
+724,31-01-2023 03:00,Monday,Evening,Pune,Auto,Damaged,Foggy,Dark - No Light,Overspeed,Fatal
+725,31-01-2023 04:00,Sunday,Afternoon,Pune,Auto,Snow,Storm,Dark - No Light,Mechanical Failure,Minor
+726,31-01-2023 05:00,Friday,Afternoon,Delhi,Bus,Dry,Rainy,Dark - No Light,Signal Jump,Minor
+727,31-01-2023 06:00,Friday,Afternoon,Mumbai,Cycle,Dry,Foggy,Daylight,Drunk Driving,Fatal
+728,31-01-2023 07:00,Tuesday,Evening,Hyderabad,Truck,Snow,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+729,31-01-2023 08:00,Tuesday,Evening,Hyderabad,Car,Snow,Storm,Dark - Street Light,Signal Jump,Serious
+730,31-01-2023 09:00,Sunday,Morning,Chennai,Auto,Damaged,Foggy,Dark - Street Light,Overspeed,Serious
+731,31-01-2023 10:00,Saturday,Morning,Pune,Cycle,Damaged,Rainy,Dark - Street Light,Signal Jump,Serious
+732,31-01-2023 11:00,Sunday,Afternoon,Chennai,Truck,Snow,Storm,Daylight,Overspeed,Serious
+733,31-01-2023 12:00,Tuesday,Night,Delhi,Auto,Damaged,Storm,Daylight,Mechanical Failure,Fatal
+734,31-01-2023 13:00,Friday,Night,Delhi,Auto,Snow,Foggy,Daylight,Mechanical Failure,Minor
+735,31-01-2023 14:00,Wednesday,Evening,Bangalore,Car,Dry,Storm,Dark - No Light,Wrong Turn,Serious
+736,31-01-2023 15:00,Sunday,Evening,Delhi,Car,Dry,Clear,Dark - No Light,Wrong Turn,Serious
+737,31-01-2023 16:00,Friday,Evening,Bangalore,Auto,Wet,Rainy,Dark - No Light,Wrong Turn,Fatal
+738,31-01-2023 17:00,Wednesday,Afternoon,Mumbai,Bike,Dry,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+739,31-01-2023 18:00,Wednesday,Night,Chennai,Auto,Snow,Storm,Dark - No Light,Drunk Driving,Minor
+740,31-01-2023 19:00,Tuesday,Morning,Kolkata,Cycle,Damaged,Storm,Dark - Street Light,Mechanical Failure,Minor
+741,31-01-2023 20:00,Sunday,Afternoon,Mumbai,Auto,Wet,Clear,Dark - No Light,Signal Jump,Fatal
+742,31-01-2023 21:00,Thursday,Morning,Delhi,Bus,Damaged,Foggy,Dark - Street Light,Mechanical Failure,Serious
+743,31-01-2023 22:00,Monday,Morning,Mumbai,Bus,Snow,Storm,Dark - No Light,Mechanical Failure,Serious
+744,31-01-2023 23:00,Tuesday,Afternoon,Mumbai,Bus,Dry,Storm,Dark - No Light,Overspeed,Serious
+745,01-02-2023 00:00,Tuesday,Morning,Mumbai,Bike,Wet,Storm,Daylight,Overspeed,Minor
+746,01-02-2023 01:00,Thursday,Night,Delhi,Bike,Snow,Storm,Dark - No Light,Overspeed,Serious
+747,01-02-2023 02:00,Monday,Morning,Kolkata,Auto,Wet,Rainy,Dark - No Light,Mechanical Failure,Serious
+748,01-02-2023 03:00,Friday,Night,Pune,Bus,Wet,Storm,Daylight,Drunk Driving,Fatal
+749,01-02-2023 04:00,Saturday,Night,Mumbai,Bike,Dry,Rainy,Dark - Street Light,Signal Jump,Serious
+750,01-02-2023 05:00,Sunday,Night,Bangalore,Car,Snow,Storm,Daylight,Signal Jump,Fatal
+751,01-02-2023 06:00,Saturday,Evening,Delhi,Auto,Damaged,Foggy,Daylight,Drunk Driving,Serious
+752,01-02-2023 07:00,Friday,Morning,Mumbai,Cycle,Wet,Clear,Dark - Street Light,Drunk Driving,Minor
+753,01-02-2023 08:00,Tuesday,Afternoon,Kolkata,Truck,Wet,Foggy,Dark - No Light,Signal Jump,Serious
+754,01-02-2023 09:00,Monday,Afternoon,Pune,Auto,Damaged,Storm,Dark - Street Light,Wrong Turn,Serious
+755,01-02-2023 10:00,Tuesday,Morning,Delhi,Truck,Snow,Storm,Dark - No Light,Overspeed,Fatal
+756,01-02-2023 11:00,Wednesday,Evening,Hyderabad,Bus,Wet,Storm,Dark - No Light,Overspeed,Fatal
+757,01-02-2023 12:00,Tuesday,Evening,Pune,Truck,Wet,Foggy,Dark - Street Light,Signal Jump,Fatal
+758,01-02-2023 13:00,Tuesday,Night,Bangalore,Bus,Wet,Storm,Daylight,Drunk Driving,Serious
+759,01-02-2023 14:00,Friday,Morning,Mumbai,Car,Snow,Foggy,Dark - Street Light,Wrong Turn,Serious
+760,01-02-2023 15:00,Friday,Morning,Kolkata,Truck,Snow,Rainy,Dark - No Light,Signal Jump,Minor
+761,01-02-2023 16:00,Friday,Afternoon,Hyderabad,Auto,Damaged,Clear,Dark - Street Light,Overspeed,Serious
+762,01-02-2023 17:00,Saturday,Morning,Kolkata,Bus,Snow,Clear,Dark - Street Light,Mechanical Failure,Minor
+763,01-02-2023 18:00,Wednesday,Evening,Hyderabad,Auto,Snow,Foggy,Dark - No Light,Drunk Driving,Fatal
+764,01-02-2023 19:00,Friday,Morning,Delhi,Bike,Dry,Rainy,Daylight,Mechanical Failure,Fatal
+765,01-02-2023 20:00,Monday,Afternoon,Hyderabad,Bus,Damaged,Foggy,Dark - Street Light,Signal Jump,Fatal
+766,01-02-2023 21:00,Saturday,Night,Bangalore,Truck,Wet,Rainy,Dark - No Light,Overspeed,Minor
+767,01-02-2023 22:00,Thursday,Afternoon,Bangalore,Bus,Snow,Storm,Dark - No Light,Wrong Turn,Serious
+768,01-02-2023 23:00,Monday,Afternoon,Chennai,Auto,Wet,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+769,02-02-2023 00:00,Sunday,Night,Bangalore,Car,Wet,Rainy,Daylight,Wrong Turn,Serious
+770,02-02-2023 01:00,Sunday,Afternoon,Pune,Bus,Dry,Rainy,Dark - Street Light,Overspeed,Serious
+771,02-02-2023 02:00,Monday,Afternoon,Hyderabad,Truck,Snow,Clear,Daylight,Mechanical Failure,Fatal
+772,02-02-2023 03:00,Friday,Morning,Bangalore,Bike,Damaged,Rainy,Daylight,Wrong Turn,Minor
+773,02-02-2023 04:00,Thursday,Morning,Delhi,Cycle,Snow,Storm,Daylight,Wrong Turn,Serious
+774,02-02-2023 05:00,Thursday,Night,Kolkata,Car,Wet,Storm,Daylight,Mechanical Failure,Fatal
+775,02-02-2023 06:00,Saturday,Morning,Kolkata,Bike,Damaged,Storm,Dark - Street Light,Overspeed,Serious
+776,02-02-2023 07:00,Thursday,Morning,Chennai,Bus,Snow,Rainy,Dark - No Light,Wrong Turn,Serious
+777,02-02-2023 08:00,Sunday,Afternoon,Kolkata,Auto,Wet,Foggy,Dark - No Light,Signal Jump,Serious
+778,02-02-2023 09:00,Wednesday,Evening,Hyderabad,Auto,Wet,Foggy,Dark - No Light,Mechanical Failure,Serious
+779,02-02-2023 10:00,Friday,Morning,Chennai,Truck,Dry,Storm,Dark - No Light,Drunk Driving,Serious
+780,02-02-2023 11:00,Thursday,Evening,Hyderabad,Auto,Dry,Clear,Dark - No Light,Drunk Driving,Minor
+781,02-02-2023 12:00,Saturday,Morning,Delhi,Car,Dry,Foggy,Dark - No Light,Overspeed,Minor
+782,02-02-2023 13:00,Sunday,Morning,Chennai,Auto,Wet,Rainy,Dark - Street Light,Signal Jump,Fatal
+783,02-02-2023 14:00,Wednesday,Night,Mumbai,Truck,Snow,Foggy,Daylight,Wrong Turn,Minor
+784,02-02-2023 15:00,Tuesday,Night,Pune,Cycle,Dry,Storm,Dark - No Light,Drunk Driving,Minor
+785,02-02-2023 16:00,Tuesday,Night,Pune,Bus,Snow,Clear,Dark - Street Light,Overspeed,Minor
+786,02-02-2023 17:00,Wednesday,Evening,Hyderabad,Bus,Dry,Foggy,Dark - No Light,Signal Jump,Serious
+787,02-02-2023 18:00,Sunday,Afternoon,Kolkata,Auto,Damaged,Foggy,Dark - No Light,Signal Jump,Serious
+788,02-02-2023 19:00,Saturday,Morning,Mumbai,Bike,Damaged,Storm,Daylight,Overspeed,Fatal
+789,02-02-2023 20:00,Wednesday,Morning,Chennai,Bus,Dry,Clear,Daylight,Overspeed,Fatal
+790,02-02-2023 21:00,Friday,Morning,Mumbai,Cycle,Wet,Clear,Daylight,Wrong Turn,Fatal
+791,02-02-2023 22:00,Friday,Evening,Mumbai,Auto,Dry,Storm,Dark - No Light,Overspeed,Serious
+792,02-02-2023 23:00,Tuesday,Night,Kolkata,Truck,Dry,Rainy,Dark - No Light,Wrong Turn,Minor
+793,03-02-2023 00:00,Thursday,Afternoon,Chennai,Cycle,Wet,Foggy,Dark - No Light,Wrong Turn,Minor
+794,03-02-2023 01:00,Saturday,Evening,Delhi,Auto,Damaged,Rainy,Daylight,Mechanical Failure,Serious
+795,03-02-2023 02:00,Tuesday,Night,Kolkata,Cycle,Snow,Foggy,Dark - Street Light,Signal Jump,Fatal
+796,03-02-2023 03:00,Thursday,Evening,Mumbai,Bus,Dry,Foggy,Dark - No Light,Signal Jump,Fatal
+797,03-02-2023 04:00,Thursday,Afternoon,Mumbai,Truck,Wet,Rainy,Dark - No Light,Signal Jump,Fatal
+798,03-02-2023 05:00,Friday,Night,Delhi,Auto,Dry,Storm,Dark - No Light,Mechanical Failure,Serious
+799,03-02-2023 06:00,Sunday,Evening,Mumbai,Car,Wet,Storm,Dark - Street Light,Wrong Turn,Fatal
+800,03-02-2023 07:00,Monday,Afternoon,Mumbai,Truck,Snow,Foggy,Dark - No Light,Wrong Turn,Fatal
+801,03-02-2023 08:00,Sunday,Morning,Mumbai,Car,Snow,Storm,Dark - Street Light,Overspeed,Serious
+802,03-02-2023 09:00,Monday,Afternoon,Pune,Cycle,Damaged,Foggy,Dark - No Light,Mechanical Failure,Minor
+803,03-02-2023 10:00,Wednesday,Morning,Kolkata,Bike,Wet,Storm,Dark - Street Light,Overspeed,Serious
+804,03-02-2023 11:00,Friday,Evening,Bangalore,Truck,Wet,Foggy,Dark - No Light,Mechanical Failure,Serious
+805,03-02-2023 12:00,Thursday,Night,Kolkata,Cycle,Damaged,Storm,Daylight,Overspeed,Serious
+806,03-02-2023 13:00,Saturday,Night,Delhi,Car,Damaged,Clear,Daylight,Drunk Driving,Serious
+807,03-02-2023 14:00,Monday,Evening,Mumbai,Bus,Wet,Rainy,Daylight,Signal Jump,Minor
+808,03-02-2023 15:00,Sunday,Night,Kolkata,Bus,Damaged,Clear,Daylight,Signal Jump,Fatal
+809,03-02-2023 16:00,Thursday,Night,Pune,Bike,Snow,Rainy,Dark - No Light,Wrong Turn,Serious
+810,03-02-2023 17:00,Monday,Morning,Delhi,Truck,Dry,Rainy,Daylight,Drunk Driving,Minor
+811,03-02-2023 18:00,Monday,Evening,Hyderabad,Truck,Snow,Foggy,Dark - Street Light,Signal Jump,Fatal
+812,03-02-2023 19:00,Monday,Afternoon,Kolkata,Truck,Damaged,Rainy,Daylight,Wrong Turn,Fatal
+813,03-02-2023 20:00,Saturday,Morning,Hyderabad,Cycle,Wet,Clear,Daylight,Drunk Driving,Fatal
+814,03-02-2023 21:00,Friday,Evening,Mumbai,Bike,Wet,Clear,Daylight,Signal Jump,Serious
+815,03-02-2023 22:00,Saturday,Morning,Pune,Truck,Snow,Storm,Dark - No Light,Overspeed,Serious
+816,03-02-2023 23:00,Tuesday,Afternoon,Pune,Cycle,Wet,Clear,Daylight,Mechanical Failure,Fatal
+817,04-02-2023 00:00,Thursday,Afternoon,Kolkata,Bus,Damaged,Storm,Dark - Street Light,Drunk Driving,Fatal
+818,04-02-2023 01:00,Friday,Evening,Delhi,Car,Snow,Rainy,Daylight,Wrong Turn,Fatal
+819,04-02-2023 02:00,Friday,Afternoon,Delhi,Cycle,Wet,Clear,Daylight,Drunk Driving,Fatal
+820,04-02-2023 03:00,Friday,Morning,Pune,Bus,Dry,Rainy,Daylight,Wrong Turn,Fatal
+821,04-02-2023 04:00,Sunday,Afternoon,Delhi,Bus,Dry,Clear,Dark - Street Light,Drunk Driving,Fatal
+822,04-02-2023 05:00,Friday,Morning,Pune,Car,Damaged,Clear,Daylight,Wrong Turn,Minor
+823,04-02-2023 06:00,Saturday,Morning,Kolkata,Bus,Wet,Storm,Dark - Street Light,Signal Jump,Fatal
+824,04-02-2023 07:00,Friday,Afternoon,Bangalore,Bike,Damaged,Rainy,Dark - Street Light,Overspeed,Serious
+825,04-02-2023 08:00,Wednesday,Evening,Pune,Car,Snow,Clear,Daylight,Signal Jump,Serious
+826,04-02-2023 09:00,Thursday,Night,Hyderabad,Bus,Dry,Foggy,Dark - Street Light,Overspeed,Serious
+827,04-02-2023 10:00,Friday,Afternoon,Delhi,Auto,Snow,Rainy,Dark - No Light,Signal Jump,Fatal
+828,04-02-2023 11:00,Thursday,Morning,Pune,Cycle,Wet,Rainy,Daylight,Signal Jump,Serious
+829,04-02-2023 12:00,Wednesday,Morning,Pune,Bus,Damaged,Rainy,Daylight,Drunk Driving,Minor
+830,04-02-2023 13:00,Wednesday,Afternoon,Kolkata,Bike,Damaged,Storm,Dark - Street Light,Mechanical Failure,Fatal
+831,04-02-2023 14:00,Thursday,Evening,Delhi,Truck,Damaged,Foggy,Dark - Street Light,Wrong Turn,Serious
+832,04-02-2023 15:00,Monday,Evening,Bangalore,Bus,Snow,Rainy,Daylight,Wrong Turn,Minor
+833,04-02-2023 16:00,Tuesday,Morning,Kolkata,Truck,Dry,Clear,Dark - No Light,Wrong Turn,Minor
+834,04-02-2023 17:00,Sunday,Morning,Bangalore,Auto,Snow,Clear,Dark - Street Light,Overspeed,Serious
+835,04-02-2023 18:00,Monday,Evening,Kolkata,Bus,Snow,Storm,Dark - Street Light,Wrong Turn,Minor
+836,04-02-2023 19:00,Monday,Night,Delhi,Car,Wet,Clear,Dark - No Light,Wrong Turn,Serious
+837,04-02-2023 20:00,Saturday,Afternoon,Chennai,Truck,Wet,Rainy,Dark - No Light,Drunk Driving,Minor
+838,04-02-2023 21:00,Sunday,Morning,Delhi,Auto,Wet,Clear,Daylight,Signal Jump,Fatal
+839,04-02-2023 22:00,Sunday,Morning,Delhi,Car,Dry,Rainy,Dark - No Light,Wrong Turn,Fatal
+840,04-02-2023 23:00,Monday,Evening,Bangalore,Car,Dry,Clear,Daylight,Mechanical Failure,Fatal
+841,05-02-2023 00:00,Friday,Afternoon,Bangalore,Car,Wet,Foggy,Dark - No Light,Wrong Turn,Fatal
+842,05-02-2023 01:00,Saturday,Evening,Delhi,Car,Wet,Storm,Dark - Street Light,Overspeed,Fatal
+843,05-02-2023 02:00,Saturday,Afternoon,Delhi,Bus,Dry,Storm,Daylight,Overspeed,Serious
+844,05-02-2023 03:00,Wednesday,Afternoon,Delhi,Cycle,Damaged,Foggy,Daylight,Overspeed,Fatal
+845,05-02-2023 04:00,Sunday,Afternoon,Bangalore,Bus,Dry,Foggy,Daylight,Wrong Turn,Fatal
+846,05-02-2023 05:00,Monday,Morning,Delhi,Bus,Dry,Storm,Dark - No Light,Drunk Driving,Fatal
+847,05-02-2023 06:00,Wednesday,Night,Delhi,Auto,Dry,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+848,05-02-2023 07:00,Thursday,Evening,Mumbai,Auto,Wet,Rainy,Daylight,Wrong Turn,Minor
+849,05-02-2023 08:00,Tuesday,Night,Chennai,Cycle,Damaged,Clear,Daylight,Drunk Driving,Fatal
+850,05-02-2023 09:00,Saturday,Evening,Hyderabad,Auto,Dry,Storm,Daylight,Drunk Driving,Fatal
+851,05-02-2023 10:00,Thursday,Afternoon,Chennai,Bike,Wet,Foggy,Daylight,Wrong Turn,Serious
+852,05-02-2023 11:00,Thursday,Morning,Mumbai,Cycle,Snow,Rainy,Dark - Street Light,Wrong Turn,Minor
+853,05-02-2023 12:00,Friday,Night,Hyderabad,Auto,Snow,Storm,Dark - No Light,Drunk Driving,Serious
+854,05-02-2023 13:00,Tuesday,Morning,Kolkata,Cycle,Dry,Foggy,Dark - Street Light,Drunk Driving,Fatal
+855,05-02-2023 14:00,Thursday,Evening,Delhi,Bus,Snow,Storm,Daylight,Drunk Driving,Serious
+856,05-02-2023 15:00,Thursday,Morning,Mumbai,Bus,Damaged,Foggy,Dark - Street Light,Wrong Turn,Serious
+857,05-02-2023 16:00,Tuesday,Morning,Kolkata,Cycle,Snow,Storm,Daylight,Drunk Driving,Fatal
+858,05-02-2023 17:00,Tuesday,Night,Delhi,Bike,Snow,Rainy,Dark - No Light,Overspeed,Minor
+859,05-02-2023 18:00,Thursday,Afternoon,Bangalore,Bike,Damaged,Rainy,Dark - No Light,Wrong Turn,Minor
+860,05-02-2023 19:00,Tuesday,Morning,Pune,Cycle,Dry,Clear,Dark - No Light,Overspeed,Serious
+861,05-02-2023 20:00,Thursday,Afternoon,Mumbai,Auto,Dry,Storm,Daylight,Signal Jump,Fatal
+862,05-02-2023 21:00,Thursday,Evening,Bangalore,Truck,Damaged,Clear,Dark - Street Light,Wrong Turn,Serious
+863,05-02-2023 22:00,Friday,Morning,Mumbai,Bike,Damaged,Storm,Dark - No Light,Signal Jump,Serious
+864,05-02-2023 23:00,Monday,Night,Mumbai,Car,Damaged,Foggy,Daylight,Drunk Driving,Serious
+865,06-02-2023 00:00,Thursday,Evening,Bangalore,Bus,Snow,Foggy,Daylight,Drunk Driving,Fatal
+866,06-02-2023 01:00,Wednesday,Evening,Hyderabad,Cycle,Damaged,Clear,Dark - Street Light,Mechanical Failure,Fatal
+867,06-02-2023 02:00,Saturday,Night,Chennai,Car,Wet,Storm,Dark - No Light,Drunk Driving,Minor
+868,06-02-2023 03:00,Sunday,Morning,Delhi,Cycle,Snow,Clear,Daylight,Signal Jump,Fatal
+869,06-02-2023 04:00,Monday,Morning,Mumbai,Bus,Dry,Rainy,Dark - Street Light,Drunk Driving,Serious
+870,06-02-2023 05:00,Monday,Evening,Delhi,Bus,Dry,Clear,Dark - No Light,Wrong Turn,Serious
+871,06-02-2023 06:00,Monday,Morning,Pune,Bike,Dry,Clear,Dark - Street Light,Drunk Driving,Minor
+872,06-02-2023 07:00,Friday,Afternoon,Bangalore,Bike,Snow,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+873,06-02-2023 08:00,Thursday,Night,Delhi,Car,Wet,Clear,Daylight,Drunk Driving,Serious
+874,06-02-2023 09:00,Friday,Afternoon,Bangalore,Cycle,Damaged,Storm,Daylight,Signal Jump,Minor
+875,06-02-2023 10:00,Thursday,Morning,Delhi,Bus,Damaged,Foggy,Daylight,Signal Jump,Minor
+876,06-02-2023 11:00,Friday,Evening,Chennai,Car,Dry,Clear,Dark - Street Light,Drunk Driving,Serious
+877,06-02-2023 12:00,Friday,Night,Chennai,Truck,Dry,Rainy,Daylight,Signal Jump,Serious
+878,06-02-2023 13:00,Saturday,Morning,Chennai,Car,Snow,Clear,Dark - Street Light,Signal Jump,Fatal
+879,06-02-2023 14:00,Wednesday,Morning,Chennai,Auto,Wet,Clear,Dark - Street Light,Mechanical Failure,Minor
+880,06-02-2023 15:00,Friday,Evening,Chennai,Car,Damaged,Clear,Daylight,Wrong Turn,Serious
+881,06-02-2023 16:00,Saturday,Evening,Chennai,Auto,Snow,Foggy,Dark - No Light,Mechanical Failure,Minor
+882,06-02-2023 17:00,Tuesday,Afternoon,Bangalore,Auto,Damaged,Storm,Dark - No Light,Overspeed,Fatal
+883,06-02-2023 18:00,Wednesday,Night,Mumbai,Auto,Dry,Rainy,Dark - No Light,Mechanical Failure,Serious
+884,06-02-2023 19:00,Friday,Night,Delhi,Truck,Damaged,Clear,Dark - Street Light,Drunk Driving,Fatal
+885,06-02-2023 20:00,Sunday,Evening,Chennai,Car,Wet,Storm,Dark - Street Light,Wrong Turn,Minor
+886,06-02-2023 21:00,Monday,Afternoon,Bangalore,Car,Wet,Storm,Dark - Street Light,Drunk Driving,Fatal
+887,06-02-2023 22:00,Tuesday,Night,Bangalore,Truck,Dry,Foggy,Daylight,Overspeed,Fatal
+888,06-02-2023 23:00,Tuesday,Evening,Bangalore,Bus,Wet,Rainy,Dark - Street Light,Wrong Turn,Minor
+889,07-02-2023 00:00,Saturday,Morning,Mumbai,Bike,Wet,Foggy,Daylight,Signal Jump,Fatal
+890,07-02-2023 01:00,Tuesday,Night,Delhi,Car,Snow,Storm,Daylight,Mechanical Failure,Minor
+891,07-02-2023 02:00,Wednesday,Afternoon,Mumbai,Bike,Damaged,Storm,Dark - No Light,Drunk Driving,Serious
+892,07-02-2023 03:00,Friday,Afternoon,Hyderabad,Cycle,Dry,Storm,Dark - No Light,Overspeed,Minor
+893,07-02-2023 04:00,Friday,Afternoon,Kolkata,Cycle,Dry,Foggy,Dark - No Light,Signal Jump,Minor
+894,07-02-2023 05:00,Sunday,Morning,Bangalore,Truck,Dry,Rainy,Daylight,Mechanical Failure,Serious
+895,07-02-2023 06:00,Monday,Night,Hyderabad,Cycle,Dry,Clear,Daylight,Signal Jump,Minor
+896,07-02-2023 07:00,Saturday,Night,Pune,Cycle,Dry,Foggy,Daylight,Mechanical Failure,Serious
+897,07-02-2023 08:00,Monday,Morning,Chennai,Bus,Wet,Storm,Dark - Street Light,Wrong Turn,Serious
+898,07-02-2023 09:00,Tuesday,Night,Kolkata,Bus,Snow,Foggy,Daylight,Signal Jump,Minor
+899,07-02-2023 10:00,Sunday,Morning,Chennai,Bus,Dry,Storm,Dark - No Light,Signal Jump,Fatal
+900,07-02-2023 11:00,Monday,Morning,Mumbai,Cycle,Snow,Clear,Dark - No Light,Signal Jump,Fatal
+901,07-02-2023 12:00,Wednesday,Morning,Kolkata,Truck,Snow,Clear,Daylight,Wrong Turn,Serious
+902,07-02-2023 13:00,Friday,Afternoon,Delhi,Auto,Wet,Rainy,Daylight,Overspeed,Fatal
+903,07-02-2023 14:00,Tuesday,Night,Hyderabad,Auto,Dry,Storm,Dark - No Light,Mechanical Failure,Fatal
+904,07-02-2023 15:00,Sunday,Morning,Delhi,Bike,Wet,Rainy,Daylight,Signal Jump,Minor
+905,07-02-2023 16:00,Monday,Night,Mumbai,Auto,Dry,Rainy,Dark - No Light,Wrong Turn,Serious
+906,07-02-2023 17:00,Saturday,Afternoon,Chennai,Auto,Wet,Clear,Dark - Street Light,Overspeed,Serious
+907,07-02-2023 18:00,Wednesday,Morning,Kolkata,Bus,Snow,Foggy,Dark - No Light,Mechanical Failure,Minor
+908,07-02-2023 19:00,Wednesday,Evening,Delhi,Bus,Dry,Foggy,Dark - Street Light,Wrong Turn,Fatal
+909,07-02-2023 20:00,Monday,Afternoon,Delhi,Cycle,Damaged,Rainy,Daylight,Mechanical Failure,Serious
+910,07-02-2023 21:00,Friday,Evening,Chennai,Bike,Snow,Clear,Daylight,Signal Jump,Fatal
+911,07-02-2023 22:00,Monday,Night,Kolkata,Car,Damaged,Storm,Dark - Street Light,Overspeed,Serious
+912,07-02-2023 23:00,Tuesday,Night,Hyderabad,Bike,Snow,Foggy,Daylight,Wrong Turn,Serious
+913,08-02-2023 00:00,Monday,Afternoon,Chennai,Bike,Wet,Rainy,Dark - Street Light,Overspeed,Serious
+914,08-02-2023 01:00,Wednesday,Night,Delhi,Truck,Dry,Foggy,Daylight,Signal Jump,Serious
+915,08-02-2023 02:00,Sunday,Evening,Hyderabad,Cycle,Snow,Foggy,Dark - No Light,Overspeed,Fatal
+916,08-02-2023 03:00,Monday,Morning,Hyderabad,Truck,Wet,Storm,Daylight,Overspeed,Fatal
+917,08-02-2023 04:00,Friday,Morning,Chennai,Bike,Dry,Clear,Dark - No Light,Drunk Driving,Fatal
+918,08-02-2023 05:00,Sunday,Morning,Delhi,Bike,Dry,Storm,Dark - No Light,Overspeed,Fatal
+919,08-02-2023 06:00,Saturday,Afternoon,Mumbai,Bike,Snow,Clear,Dark - Street Light,Mechanical Failure,Minor
+920,08-02-2023 07:00,Thursday,Night,Delhi,Auto,Dry,Foggy,Daylight,Wrong Turn,Serious
+921,08-02-2023 08:00,Monday,Evening,Bangalore,Truck,Snow,Rainy,Dark - Street Light,Drunk Driving,Serious
+922,08-02-2023 09:00,Friday,Night,Kolkata,Bike,Dry,Storm,Daylight,Wrong Turn,Serious
+923,08-02-2023 10:00,Sunday,Night,Pune,Bus,Damaged,Clear,Dark - No Light,Wrong Turn,Minor
+924,08-02-2023 11:00,Friday,Night,Mumbai,Cycle,Wet,Foggy,Dark - No Light,Signal Jump,Fatal
+925,08-02-2023 12:00,Saturday,Morning,Hyderabad,Cycle,Damaged,Clear,Daylight,Signal Jump,Serious
+926,08-02-2023 13:00,Wednesday,Evening,Mumbai,Bus,Snow,Clear,Daylight,Drunk Driving,Fatal
+927,08-02-2023 14:00,Friday,Evening,Kolkata,Cycle,Damaged,Clear,Dark - Street Light,Signal Jump,Fatal
+928,08-02-2023 15:00,Sunday,Night,Hyderabad,Auto,Snow,Foggy,Daylight,Signal Jump,Minor
+929,08-02-2023 16:00,Friday,Morning,Kolkata,Auto,Dry,Rainy,Daylight,Signal Jump,Minor
+930,08-02-2023 17:00,Friday,Morning,Hyderabad,Car,Dry,Rainy,Daylight,Wrong Turn,Fatal
+931,08-02-2023 18:00,Friday,Evening,Mumbai,Car,Snow,Rainy,Dark - Street Light,Drunk Driving,Serious
+932,08-02-2023 19:00,Tuesday,Morning,Hyderabad,Car,Damaged,Clear,Daylight,Wrong Turn,Serious
+933,08-02-2023 20:00,Tuesday,Morning,Hyderabad,Cycle,Dry,Foggy,Dark - No Light,Mechanical Failure,Minor
+934,08-02-2023 21:00,Wednesday,Morning,Bangalore,Auto,Wet,Clear,Dark - Street Light,Wrong Turn,Minor
+935,08-02-2023 22:00,Monday,Afternoon,Delhi,Auto,Dry,Rainy,Dark - Street Light,Mechanical Failure,Minor
+936,08-02-2023 23:00,Friday,Night,Delhi,Auto,Wet,Rainy,Dark - No Light,Overspeed,Minor
+937,09-02-2023 00:00,Saturday,Evening,Pune,Bus,Damaged,Foggy,Dark - No Light,Overspeed,Minor
+938,09-02-2023 01:00,Monday,Evening,Pune,Auto,Wet,Clear,Dark - No Light,Mechanical Failure,Minor
+939,09-02-2023 02:00,Saturday,Afternoon,Bangalore,Bus,Wet,Storm,Daylight,Mechanical Failure,Minor
+940,09-02-2023 03:00,Monday,Night,Pune,Car,Wet,Storm,Dark - No Light,Wrong Turn,Serious
+941,09-02-2023 04:00,Wednesday,Evening,Kolkata,Car,Wet,Rainy,Daylight,Mechanical Failure,Minor
+942,09-02-2023 05:00,Friday,Morning,Mumbai,Cycle,Dry,Foggy,Dark - Street Light,Drunk Driving,Minor
+943,09-02-2023 06:00,Friday,Evening,Chennai,Car,Wet,Clear,Dark - Street Light,Overspeed,Serious
+944,09-02-2023 07:00,Thursday,Morning,Kolkata,Cycle,Dry,Clear,Dark - No Light,Overspeed,Serious
+945,09-02-2023 08:00,Saturday,Afternoon,Chennai,Bike,Wet,Rainy,Daylight,Mechanical Failure,Fatal
+946,09-02-2023 09:00,Monday,Morning,Chennai,Bike,Snow,Rainy,Dark - No Light,Signal Jump,Minor
+947,09-02-2023 10:00,Monday,Evening,Bangalore,Truck,Damaged,Clear,Dark - No Light,Signal Jump,Minor
+948,09-02-2023 11:00,Tuesday,Evening,Kolkata,Cycle,Wet,Clear,Daylight,Mechanical Failure,Minor
+949,09-02-2023 12:00,Thursday,Evening,Bangalore,Truck,Snow,Rainy,Dark - No Light,Drunk Driving,Minor
+950,09-02-2023 13:00,Sunday,Afternoon,Hyderabad,Truck,Wet,Clear,Dark - Street Light,Signal Jump,Fatal
+951,09-02-2023 14:00,Sunday,Afternoon,Chennai,Bike,Wet,Storm,Dark - No Light,Mechanical Failure,Serious
+952,09-02-2023 15:00,Tuesday,Night,Mumbai,Cycle,Wet,Rainy,Daylight,Drunk Driving,Serious
+953,09-02-2023 16:00,Tuesday,Evening,Pune,Bike,Snow,Clear,Daylight,Drunk Driving,Minor
+954,09-02-2023 17:00,Tuesday,Morning,Mumbai,Truck,Damaged,Rainy,Dark - Street Light,Wrong Turn,Minor
+955,09-02-2023 18:00,Saturday,Afternoon,Pune,Cycle,Snow,Foggy,Daylight,Drunk Driving,Minor
+956,09-02-2023 19:00,Saturday,Evening,Chennai,Truck,Damaged,Rainy,Daylight,Signal Jump,Fatal
+957,09-02-2023 20:00,Wednesday,Evening,Chennai,Auto,Wet,Rainy,Dark - Street Light,Signal Jump,Fatal
+958,09-02-2023 21:00,Wednesday,Afternoon,Chennai,Cycle,Dry,Foggy,Dark - No Light,Mechanical Failure,Serious
+959,09-02-2023 22:00,Tuesday,Night,Bangalore,Cycle,Wet,Storm,Dark - Street Light,Mechanical Failure,Minor
+960,09-02-2023 23:00,Thursday,Afternoon,Kolkata,Truck,Damaged,Clear,Dark - No Light,Drunk Driving,Minor
+961,10-02-2023 00:00,Monday,Afternoon,Pune,Auto,Snow,Foggy,Dark - Street Light,Overspeed,Minor
+962,10-02-2023 01:00,Saturday,Morning,Kolkata,Bus,Wet,Rainy,Dark - No Light,Wrong Turn,Minor
+963,10-02-2023 02:00,Thursday,Morning,Bangalore,Bike,Snow,Clear,Dark - Street Light,Overspeed,Fatal
+964,10-02-2023 03:00,Friday,Night,Bangalore,Truck,Snow,Foggy,Dark - No Light,Drunk Driving,Serious
+965,10-02-2023 04:00,Saturday,Evening,Delhi,Cycle,Snow,Clear,Dark - Street Light,Drunk Driving,Serious
+966,10-02-2023 05:00,Saturday,Afternoon,Mumbai,Bike,Wet,Clear,Dark - No Light,Overspeed,Fatal
+967,10-02-2023 06:00,Wednesday,Night,Mumbai,Bike,Snow,Foggy,Dark - Street Light,Wrong Turn,Minor
+968,10-02-2023 07:00,Monday,Morning,Hyderabad,Bike,Snow,Clear,Daylight,Overspeed,Serious
+969,10-02-2023 08:00,Monday,Afternoon,Bangalore,Bus,Wet,Storm,Dark - No Light,Mechanical Failure,Serious
+970,10-02-2023 09:00,Sunday,Evening,Pune,Car,Snow,Foggy,Dark - Street Light,Signal Jump,Fatal
+971,10-02-2023 10:00,Sunday,Morning,Delhi,Truck,Wet,Storm,Dark - No Light,Mechanical Failure,Minor
+972,10-02-2023 11:00,Sunday,Morning,Delhi,Car,Damaged,Rainy,Dark - No Light,Signal Jump,Serious
+973,10-02-2023 12:00,Sunday,Morning,Kolkata,Car,Damaged,Clear,Dark - Street Light,Drunk Driving,Minor
+974,10-02-2023 13:00,Friday,Night,Mumbai,Car,Damaged,Rainy,Dark - No Light,Wrong Turn,Serious
+975,10-02-2023 14:00,Friday,Evening,Bangalore,Bike,Snow,Rainy,Dark - Street Light,Overspeed,Fatal
+976,10-02-2023 15:00,Saturday,Afternoon,Hyderabad,Auto,Dry,Clear,Daylight,Wrong Turn,Minor
+977,10-02-2023 16:00,Tuesday,Night,Bangalore,Bike,Dry,Foggy,Dark - No Light,Overspeed,Fatal
+978,10-02-2023 17:00,Wednesday,Night,Kolkata,Bike,Snow,Clear,Daylight,Mechanical Failure,Serious
+979,10-02-2023 18:00,Wednesday,Night,Chennai,Cycle,Dry,Rainy,Dark - No Light,Mechanical Failure,Fatal
+980,10-02-2023 19:00,Sunday,Morning,Bangalore,Cycle,Wet,Rainy,Dark - No Light,Overspeed,Fatal
+981,10-02-2023 20:00,Saturday,Evening,Kolkata,Car,Dry,Foggy,Dark - No Light,Wrong Turn,Fatal
+982,10-02-2023 21:00,Thursday,Night,Chennai,Bike,Snow,Clear,Dark - Street Light,Overspeed,Serious
+983,10-02-2023 22:00,Tuesday,Afternoon,Chennai,Car,Snow,Rainy,Daylight,Drunk Driving,Minor
+984,10-02-2023 23:00,Saturday,Evening,Hyderabad,Cycle,Wet,Storm,Dark - No Light,Mechanical Failure,Fatal
+985,11-02-2023 00:00,Tuesday,Afternoon,Pune,Auto,Damaged,Rainy,Dark - Street Light,Drunk Driving,Minor
+986,11-02-2023 01:00,Tuesday,Evening,Mumbai,Truck,Snow,Rainy,Dark - No Light,Mechanical Failure,Serious
+987,11-02-2023 02:00,Tuesday,Afternoon,Bangalore,Car,Wet,Foggy,Dark - Street Light,Mechanical Failure,Minor
+988,11-02-2023 03:00,Saturday,Morning,Chennai,Auto,Dry,Storm,Dark - No Light,Signal Jump,Fatal
+989,11-02-2023 04:00,Sunday,Night,Bangalore,Truck,Dry,Rainy,Daylight,Drunk Driving,Fatal
+990,11-02-2023 05:00,Wednesday,Afternoon,Pune,Bus,Wet,Rainy,Daylight,Drunk Driving,Fatal
+991,11-02-2023 06:00,Wednesday,Evening,Mumbai,Car,Wet,Storm,Dark - No Light,Signal Jump,Fatal
+992,11-02-2023 07:00,Sunday,Night,Pune,Car,Snow,Clear,Dark - Street Light,Wrong Turn,Fatal
+993,11-02-2023 08:00,Tuesday,Night,Mumbai,Bus,Dry,Clear,Dark - No Light,Drunk Driving,Fatal
+994,11-02-2023 09:00,Thursday,Evening,Delhi,Bus,Wet,Rainy,Dark - Street Light,Overspeed,Serious
+995,11-02-2023 10:00,Monday,Afternoon,Mumbai,Car,Dry,Rainy,Dark - No Light,Signal Jump,Serious
+996,11-02-2023 11:00,Saturday,Morning,Hyderabad,Bus,Wet,Clear,Dark - Street Light,Drunk Driving,Serious
+997,11-02-2023 12:00,Monday,Morning,Pune,Bike,Dry,Foggy,Daylight,Wrong Turn,Minor
+998,11-02-2023 13:00,Sunday,Afternoon,Chennai,Truck,Damaged,Storm,Dark - No Light,Drunk Driving,Minor
+999,11-02-2023 14:00,Thursday,Night,Delhi,Truck,Snow,Storm,Daylight,Mechanical Failure,Serious
+1000,11-02-2023 15:00,Saturday,Night,Hyderabad,Truck,Dry,Foggy,Daylight,Overspeed,Minor
+1001,11-02-2023 16:00,Sunday,Night,Bangalore,Bike,Damaged,Foggy,Dark - No Light,Signal Jump,Minor
+1002,11-02-2023 17:00,Tuesday,Night,Pune,Bus,Dry,Foggy,Dark - No Light,Mechanical Failure,Fatal
+1003,11-02-2023 18:00,Wednesday,Afternoon,Kolkata,Auto,Dry,Foggy,Dark - Street Light,Wrong Turn,Fatal
+1004,11-02-2023 19:00,Monday,Night,Kolkata,Bus,Damaged,Foggy,Dark - Street Light,Mechanical Failure,Minor
+1005,11-02-2023 20:00,Friday,Evening,Chennai,Car,Dry,Foggy,Daylight,Mechanical Failure,Minor
+1006,11-02-2023 21:00,Friday,Night,Mumbai,Cycle,Dry,Storm,Dark - Street Light,Wrong Turn,Serious
+1007,11-02-2023 22:00,Thursday,Morning,Chennai,Truck,Snow,Foggy,Dark - Street Light,Mechanical Failure,Minor
+1008,11-02-2023 23:00,Tuesday,Night,Kolkata,Bus,Damaged,Clear,Dark - No Light,Signal Jump,Fatal
+1009,12-02-2023 00:00,Monday,Afternoon,Bangalore,Auto,Damaged,Foggy,Dark - Street Light,Drunk Driving,Minor
+1010,12-02-2023 01:00,Tuesday,Morning,Delhi,Car,Wet,Foggy,Daylight,Mechanical Failure,Serious
+1011,12-02-2023 02:00,Monday,Afternoon,Delhi,Bike,Dry,Storm,Dark - Street Light,Signal Jump,Fatal
+1012,12-02-2023 03:00,Thursday,Afternoon,Pune,Bike,Snow,Storm,Daylight,Drunk Driving,Fatal
+1013,12-02-2023 04:00,Thursday,Morning,Delhi,Auto,Dry,Foggy,Dark - No Light,Drunk Driving,Fatal
+1014,12-02-2023 05:00,Friday,Afternoon,Pune,Car,Dry,Storm,Daylight,Mechanical Failure,Fatal
+1015,12-02-2023 06:00,Tuesday,Afternoon,Pune,Truck,Wet,Rainy,Dark - Street Light,Signal Jump,Minor
+1016,12-02-2023 07:00,Saturday,Night,Pune,Bus,Dry,Storm,Dark - No Light,Mechanical Failure,Serious
+1017,12-02-2023 08:00,Friday,Evening,Kolkata,Car,Snow,Storm,Dark - Street Light,Wrong Turn,Minor
+1018,12-02-2023 09:00,Tuesday,Afternoon,Kolkata,Bike,Snow,Storm,Dark - No Light,Drunk Driving,Minor
+1019,12-02-2023 10:00,Friday,Afternoon,Mumbai,Auto,Wet,Storm,Dark - No Light,Mechanical Failure,Fatal
+1020,12-02-2023 11:00,Saturday,Afternoon,Hyderabad,Auto,Dry,Clear,Dark - Street Light,Drunk Driving,Serious
+1021,12-02-2023 12:00,Wednesday,Night,Pune,Bus,Snow,Clear,Dark - Street Light,Signal Jump,Fatal
+1022,12-02-2023 13:00,Wednesday,Evening,Pune,Auto,Dry,Clear,Dark - No Light,Overspeed,Minor
+1023,12-02-2023 14:00,Wednesday,Morning,Hyderabad,Auto,Dry,Foggy,Dark - No Light,Mechanical Failure,Minor
+1024,12-02-2023 15:00,Wednesday,Night,Chennai,Car,Dry,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+1025,12-02-2023 16:00,Sunday,Night,Pune,Truck,Wet,Rainy,Daylight,Drunk Driving,Minor
+1026,12-02-2023 17:00,Monday,Evening,Mumbai,Bus,Dry,Clear,Dark - Street Light,Signal Jump,Minor
+1027,12-02-2023 18:00,Sunday,Evening,Delhi,Car,Snow,Foggy,Dark - No Light,Wrong Turn,Fatal
+1028,12-02-2023 19:00,Sunday,Night,Delhi,Truck,Dry,Storm,Dark - Street Light,Signal Jump,Minor
+1029,12-02-2023 20:00,Sunday,Morning,Bangalore,Car,Snow,Storm,Daylight,Mechanical Failure,Serious
+1030,12-02-2023 21:00,Wednesday,Night,Bangalore,Cycle,Dry,Clear,Dark - Street Light,Wrong Turn,Fatal
+1031,12-02-2023 22:00,Saturday,Evening,Delhi,Car,Snow,Rainy,Dark - No Light,Signal Jump,Serious
+1032,12-02-2023 23:00,Thursday,Morning,Delhi,Auto,Snow,Rainy,Dark - Street Light,Overspeed,Minor
+1033,13-02-2023 00:00,Thursday,Evening,Kolkata,Truck,Dry,Storm,Dark - No Light,Drunk Driving,Minor
+1034,13-02-2023 01:00,Monday,Morning,Mumbai,Bus,Dry,Rainy,Dark - No Light,Signal Jump,Fatal
+1035,13-02-2023 02:00,Wednesday,Afternoon,Hyderabad,Bus,Snow,Clear,Dark - Street Light,Signal Jump,Minor
+1036,13-02-2023 03:00,Wednesday,Evening,Bangalore,Truck,Damaged,Storm,Dark - No Light,Overspeed,Fatal
+1037,13-02-2023 04:00,Wednesday,Evening,Kolkata,Auto,Wet,Foggy,Dark - No Light,Mechanical Failure,Fatal
+1038,13-02-2023 05:00,Friday,Night,Kolkata,Bike,Damaged,Foggy,Daylight,Drunk Driving,Fatal
+1039,13-02-2023 06:00,Tuesday,Evening,Hyderabad,Car,Damaged,Rainy,Daylight,Signal Jump,Fatal
+1040,13-02-2023 07:00,Friday,Evening,Kolkata,Auto,Dry,Storm,Daylight,Wrong Turn,Fatal
+1041,13-02-2023 08:00,Tuesday,Afternoon,Mumbai,Cycle,Wet,Storm,Daylight,Signal Jump,Serious
+1042,13-02-2023 09:00,Wednesday,Evening,Delhi,Truck,Damaged,Foggy,Dark - No Light,Drunk Driving,Fatal
+1043,13-02-2023 10:00,Wednesday,Afternoon,Pune,Car,Dry,Storm,Dark - Street Light,Signal Jump,Serious
+1044,13-02-2023 11:00,Friday,Afternoon,Hyderabad,Bus,Damaged,Storm,Dark - No Light,Overspeed,Minor
+1045,13-02-2023 12:00,Friday,Afternoon,Delhi,Bike,Damaged,Storm,Dark - No Light,Signal Jump,Fatal
+1046,13-02-2023 13:00,Tuesday,Afternoon,Delhi,Cycle,Dry,Rainy,Dark - No Light,Signal Jump,Minor
+1047,13-02-2023 14:00,Thursday,Morning,Chennai,Bus,Dry,Storm,Dark - Street Light,Wrong Turn,Fatal
+1048,13-02-2023 15:00,Tuesday,Night,Hyderabad,Truck,Dry,Clear,Daylight,Overspeed,Serious
+1049,13-02-2023 16:00,Friday,Morning,Kolkata,Car,Wet,Rainy,Dark - No Light,Overspeed,Serious
+1050,13-02-2023 17:00,Saturday,Evening,Pune,Truck,Damaged,Storm,Dark - No Light,Signal Jump,Serious
+1051,13-02-2023 18:00,Friday,Morning,Hyderabad,Car,Dry,Storm,Daylight,Wrong Turn,Minor
+1052,13-02-2023 19:00,Saturday,Morning,Kolkata,Auto,Snow,Clear,Dark - No Light,Signal Jump,Fatal
+1053,13-02-2023 20:00,Monday,Evening,Delhi,Bike,Damaged,Rainy,Dark - Street Light,Signal Jump,Minor
+1054,13-02-2023 21:00,Friday,Evening,Pune,Auto,Snow,Foggy,Dark - No Light,Drunk Driving,Serious
+1055,13-02-2023 22:00,Monday,Evening,Kolkata,Auto,Wet,Foggy,Dark - No Light,Drunk Driving,Minor
+1056,13-02-2023 23:00,Thursday,Morning,Mumbai,Truck,Dry,Rainy,Daylight,Wrong Turn,Serious
+1057,14-02-2023 00:00,Tuesday,Morning,Kolkata,Bike,Snow,Storm,Dark - No Light,Mechanical Failure,Serious
+1058,14-02-2023 01:00,Saturday,Evening,Chennai,Car,Wet,Storm,Dark - No Light,Drunk Driving,Serious
+1059,14-02-2023 02:00,Tuesday,Night,Delhi,Car,Dry,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+1060,14-02-2023 03:00,Monday,Night,Kolkata,Cycle,Snow,Foggy,Daylight,Overspeed,Fatal
+1061,14-02-2023 04:00,Saturday,Afternoon,Bangalore,Bus,Snow,Foggy,Daylight,Drunk Driving,Serious
+1062,14-02-2023 05:00,Tuesday,Evening,Bangalore,Cycle,Wet,Clear,Dark - Street Light,Drunk Driving,Minor
+1063,14-02-2023 06:00,Friday,Afternoon,Chennai,Cycle,Dry,Foggy,Dark - No Light,Wrong Turn,Minor
+1064,14-02-2023 07:00,Wednesday,Night,Mumbai,Car,Dry,Clear,Daylight,Mechanical Failure,Fatal
+1065,14-02-2023 08:00,Monday,Afternoon,Delhi,Truck,Snow,Rainy,Daylight,Drunk Driving,Serious
+1066,14-02-2023 09:00,Tuesday,Evening,Hyderabad,Auto,Snow,Storm,Dark - No Light,Drunk Driving,Minor
+1067,14-02-2023 10:00,Monday,Evening,Chennai,Auto,Snow,Foggy,Dark - No Light,Wrong Turn,Serious
+1068,14-02-2023 11:00,Sunday,Evening,Mumbai,Auto,Dry,Storm,Daylight,Wrong Turn,Minor
+1069,14-02-2023 12:00,Monday,Morning,Hyderabad,Bike,Wet,Storm,Dark - No Light,Mechanical Failure,Fatal
+1070,14-02-2023 13:00,Saturday,Afternoon,Bangalore,Car,Wet,Foggy,Daylight,Overspeed,Serious
+1071,14-02-2023 14:00,Sunday,Night,Bangalore,Truck,Dry,Foggy,Dark - No Light,Overspeed,Serious
+1072,14-02-2023 15:00,Saturday,Night,Hyderabad,Bike,Damaged,Rainy,Dark - No Light,Signal Jump,Minor
+1073,14-02-2023 16:00,Wednesday,Night,Chennai,Bus,Wet,Clear,Dark - Street Light,Drunk Driving,Minor
+1074,14-02-2023 17:00,Sunday,Morning,Bangalore,Truck,Snow,Clear,Dark - No Light,Mechanical Failure,Minor
+1075,14-02-2023 18:00,Friday,Morning,Delhi,Cycle,Damaged,Storm,Dark - Street Light,Drunk Driving,Serious
+1076,14-02-2023 19:00,Monday,Evening,Pune,Truck,Damaged,Foggy,Dark - No Light,Mechanical Failure,Fatal
+1077,14-02-2023 20:00,Tuesday,Night,Kolkata,Truck,Wet,Rainy,Daylight,Mechanical Failure,Fatal
+1078,14-02-2023 21:00,Thursday,Morning,Hyderabad,Auto,Damaged,Rainy,Daylight,Mechanical Failure,Minor
+1079,14-02-2023 22:00,Monday,Evening,Hyderabad,Truck,Damaged,Rainy,Dark - No Light,Drunk Driving,Fatal
+1080,14-02-2023 23:00,Monday,Night,Bangalore,Cycle,Wet,Rainy,Dark - No Light,Wrong Turn,Minor
+1081,15-02-2023 00:00,Wednesday,Afternoon,Chennai,Cycle,Wet,Rainy,Daylight,Drunk Driving,Fatal
+1082,15-02-2023 01:00,Friday,Evening,Delhi,Car,Damaged,Clear,Dark - No Light,Mechanical Failure,Serious
+1083,15-02-2023 02:00,Thursday,Morning,Chennai,Truck,Snow,Clear,Dark - Street Light,Signal Jump,Minor
+1084,15-02-2023 03:00,Sunday,Morning,Mumbai,Auto,Dry,Clear,Dark - Street Light,Overspeed,Fatal
+1085,15-02-2023 04:00,Sunday,Evening,Mumbai,Truck,Damaged,Foggy,Dark - Street Light,Mechanical Failure,Serious
+1086,15-02-2023 05:00,Sunday,Evening,Pune,Bus,Damaged,Storm,Dark - Street Light,Signal Jump,Fatal
+1087,15-02-2023 06:00,Saturday,Morning,Bangalore,Bus,Snow,Rainy,Dark - Street Light,Wrong Turn,Serious
+1088,15-02-2023 07:00,Saturday,Afternoon,Bangalore,Auto,Damaged,Foggy,Dark - No Light,Mechanical Failure,Serious
+1089,15-02-2023 08:00,Tuesday,Night,Bangalore,Car,Damaged,Rainy,Dark - No Light,Signal Jump,Fatal
+1090,15-02-2023 09:00,Thursday,Afternoon,Pune,Car,Dry,Clear,Dark - Street Light,Mechanical Failure,Fatal
+1091,15-02-2023 10:00,Sunday,Evening,Mumbai,Cycle,Dry,Foggy,Dark - No Light,Drunk Driving,Serious
+1092,15-02-2023 11:00,Saturday,Afternoon,Chennai,Cycle,Dry,Clear,Dark - No Light,Signal Jump,Serious
+1093,15-02-2023 12:00,Tuesday,Morning,Pune,Bike,Wet,Rainy,Dark - Street Light,Drunk Driving,Serious
+1094,15-02-2023 13:00,Friday,Evening,Pune,Auto,Wet,Rainy,Dark - No Light,Drunk Driving,Minor
+1095,15-02-2023 14:00,Tuesday,Night,Chennai,Truck,Dry,Storm,Dark - No Light,Signal Jump,Serious
+1096,15-02-2023 15:00,Saturday,Morning,Bangalore,Auto,Dry,Rainy,Dark - No Light,Overspeed,Minor
+1097,15-02-2023 16:00,Wednesday,Morning,Delhi,Bike,Wet,Clear,Dark - Street Light,Signal Jump,Serious
+1098,15-02-2023 17:00,Wednesday,Night,Chennai,Cycle,Snow,Rainy,Dark - No Light,Overspeed,Minor
+1099,15-02-2023 18:00,Sunday,Night,Mumbai,Auto,Damaged,Storm,Daylight,Mechanical Failure,Serious
+1100,15-02-2023 19:00,Wednesday,Afternoon,Hyderabad,Auto,Damaged,Storm,Daylight,Mechanical Failure,Serious
+1101,15-02-2023 20:00,Sunday,Evening,Hyderabad,Cycle,Dry,Clear,Dark - Street Light,Signal Jump,Serious
+1102,15-02-2023 21:00,Sunday,Night,Kolkata,Bike,Snow,Foggy,Daylight,Mechanical Failure,Fatal
+1103,15-02-2023 22:00,Saturday,Night,Kolkata,Cycle,Wet,Rainy,Dark - Street Light,Wrong Turn,Fatal
+1104,15-02-2023 23:00,Wednesday,Evening,Pune,Car,Dry,Storm,Daylight,Drunk Driving,Serious
+1105,16-02-2023 00:00,Sunday,Night,Hyderabad,Truck,Snow,Rainy,Daylight,Drunk Driving,Minor
+1106,16-02-2023 01:00,Thursday,Night,Delhi,Cycle,Snow,Rainy,Daylight,Overspeed,Minor
+1107,16-02-2023 02:00,Friday,Afternoon,Bangalore,Bike,Snow,Foggy,Dark - Street Light,Mechanical Failure,Serious
+1108,16-02-2023 03:00,Tuesday,Morning,Mumbai,Bus,Wet,Storm,Dark - Street Light,Overspeed,Fatal
+1109,16-02-2023 04:00,Tuesday,Morning,Kolkata,Car,Wet,Rainy,Dark - No Light,Drunk Driving,Minor
+1110,16-02-2023 05:00,Saturday,Morning,Delhi,Bus,Damaged,Storm,Dark - Street Light,Drunk Driving,Fatal
+1111,16-02-2023 06:00,Wednesday,Morning,Mumbai,Cycle,Damaged,Clear,Daylight,Mechanical Failure,Minor
+1112,16-02-2023 07:00,Wednesday,Night,Mumbai,Car,Snow,Clear,Daylight,Wrong Turn,Serious
+1113,16-02-2023 08:00,Sunday,Evening,Bangalore,Truck,Snow,Rainy,Dark - Street Light,Wrong Turn,Fatal
+1114,16-02-2023 09:00,Monday,Evening,Pune,Cycle,Wet,Storm,Dark - Street Light,Mechanical Failure,Minor
+1115,16-02-2023 10:00,Sunday,Afternoon,Hyderabad,Truck,Damaged,Rainy,Dark - Street Light,Mechanical Failure,Serious
+1116,16-02-2023 11:00,Friday,Afternoon,Bangalore,Auto,Snow,Storm,Dark - No Light,Overspeed,Serious
+1117,16-02-2023 12:00,Thursday,Night,Delhi,Bus,Damaged,Storm,Daylight,Mechanical Failure,Serious
+1118,16-02-2023 13:00,Tuesday,Evening,Pune,Car,Damaged,Foggy,Dark - No Light,Wrong Turn,Fatal
+1119,16-02-2023 14:00,Sunday,Evening,Delhi,Truck,Snow,Foggy,Dark - No Light,Mechanical Failure,Fatal
+1120,16-02-2023 15:00,Monday,Morning,Pune,Bike,Wet,Foggy,Daylight,Overspeed,Serious
+1121,16-02-2023 16:00,Monday,Night,Kolkata,Truck,Snow,Rainy,Daylight,Overspeed,Fatal
+1122,16-02-2023 17:00,Sunday,Night,Delhi,Bike,Snow,Foggy,Dark - Street Light,Overspeed,Minor
+1123,16-02-2023 18:00,Saturday,Morning,Bangalore,Cycle,Damaged,Foggy,Dark - Street Light,Overspeed,Serious
+1124,16-02-2023 19:00,Tuesday,Night,Pune,Car,Snow,Clear,Dark - No Light,Signal Jump,Serious
+1125,16-02-2023 20:00,Saturday,Night,Pune,Truck,Wet,Storm,Dark - Street Light,Mechanical Failure,Fatal
+1126,16-02-2023 21:00,Thursday,Afternoon,Mumbai,Truck,Snow,Storm,Dark - Street Light,Drunk Driving,Serious
+1127,16-02-2023 22:00,Monday,Evening,Mumbai,Car,Wet,Foggy,Daylight,Mechanical Failure,Minor
+1128,16-02-2023 23:00,Monday,Night,Chennai,Truck,Wet,Storm,Daylight,Signal Jump,Fatal
+1129,17-02-2023 00:00,Friday,Afternoon,Delhi,Bike,Damaged,Clear,Dark - Street Light,Overspeed,Fatal
+1130,17-02-2023 01:00,Thursday,Evening,Mumbai,Truck,Dry,Clear,Daylight,Signal Jump,Serious
+1131,17-02-2023 02:00,Monday,Morning,Chennai,Bus,Dry,Foggy,Dark - Street Light,Wrong Turn,Serious
+1132,17-02-2023 03:00,Thursday,Afternoon,Kolkata,Cycle,Damaged,Clear,Daylight,Wrong Turn,Serious
+1133,17-02-2023 04:00,Tuesday,Afternoon,Kolkata,Auto,Snow,Storm,Daylight,Mechanical Failure,Fatal
+1134,17-02-2023 05:00,Wednesday,Evening,Mumbai,Bike,Damaged,Rainy,Daylight,Mechanical Failure,Serious
+1135,17-02-2023 06:00,Monday,Morning,Delhi,Bus,Wet,Storm,Daylight,Drunk Driving,Minor
+1136,17-02-2023 07:00,Friday,Afternoon,Pune,Cycle,Dry,Rainy,Dark - Street Light,Drunk Driving,Serious
+1137,17-02-2023 08:00,Tuesday,Night,Hyderabad,Car,Damaged,Foggy,Dark - No Light,Wrong Turn,Serious
+1138,17-02-2023 09:00,Sunday,Night,Delhi,Bike,Snow,Rainy,Daylight,Overspeed,Fatal
+1139,17-02-2023 10:00,Thursday,Night,Bangalore,Auto,Damaged,Clear,Dark - Street Light,Signal Jump,Serious
+1140,17-02-2023 11:00,Sunday,Morning,Kolkata,Cycle,Dry,Storm,Dark - Street Light,Drunk Driving,Fatal
+1141,17-02-2023 12:00,Saturday,Afternoon,Mumbai,Auto,Damaged,Rainy,Daylight,Drunk Driving,Serious
+1142,17-02-2023 13:00,Tuesday,Night,Mumbai,Car,Damaged,Storm,Dark - No Light,Overspeed,Minor
+1143,17-02-2023 14:00,Sunday,Morning,Pune,Car,Dry,Foggy,Daylight,Overspeed,Minor
+1144,17-02-2023 15:00,Monday,Night,Bangalore,Bike,Wet,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+1145,17-02-2023 16:00,Thursday,Evening,Pune,Truck,Wet,Clear,Dark - No Light,Signal Jump,Fatal
+1146,17-02-2023 17:00,Wednesday,Afternoon,Bangalore,Car,Dry,Foggy,Dark - Street Light,Overspeed,Serious
+1147,17-02-2023 18:00,Tuesday,Afternoon,Hyderabad,Cycle,Damaged,Rainy,Daylight,Drunk Driving,Serious
+1148,17-02-2023 19:00,Monday,Morning,Kolkata,Truck,Dry,Foggy,Dark - No Light,Drunk Driving,Minor
+1149,17-02-2023 20:00,Friday,Morning,Mumbai,Bus,Wet,Clear,Dark - Street Light,Wrong Turn,Serious
+1150,17-02-2023 21:00,Saturday,Afternoon,Mumbai,Auto,Snow,Storm,Dark - Street Light,Overspeed,Minor
+1151,17-02-2023 22:00,Thursday,Night,Hyderabad,Truck,Damaged,Storm,Dark - Street Light,Mechanical Failure,Fatal
+1152,17-02-2023 23:00,Tuesday,Night,Chennai,Auto,Wet,Foggy,Daylight,Signal Jump,Serious
+1153,18-02-2023 00:00,Tuesday,Evening,Kolkata,Truck,Damaged,Rainy,Dark - No Light,Mechanical Failure,Fatal
+1154,18-02-2023 01:00,Wednesday,Night,Pune,Bus,Dry,Clear,Daylight,Drunk Driving,Serious
+1155,18-02-2023 02:00,Wednesday,Morning,Hyderabad,Car,Snow,Rainy,Daylight,Mechanical Failure,Minor
+1156,18-02-2023 03:00,Friday,Morning,Pune,Bus,Dry,Clear,Daylight,Drunk Driving,Fatal
+1157,18-02-2023 04:00,Saturday,Night,Delhi,Car,Snow,Foggy,Dark - No Light,Drunk Driving,Fatal
+1158,18-02-2023 05:00,Friday,Morning,Mumbai,Car,Damaged,Clear,Daylight,Drunk Driving,Serious
+1159,18-02-2023 06:00,Monday,Afternoon,Pune,Auto,Damaged,Clear,Daylight,Drunk Driving,Fatal
+1160,18-02-2023 07:00,Monday,Afternoon,Bangalore,Cycle,Dry,Foggy,Daylight,Drunk Driving,Minor
+1161,18-02-2023 08:00,Friday,Night,Pune,Bus,Snow,Rainy,Daylight,Wrong Turn,Fatal
+1162,18-02-2023 09:00,Saturday,Afternoon,Delhi,Truck,Snow,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+1163,18-02-2023 10:00,Friday,Afternoon,Kolkata,Bus,Damaged,Clear,Daylight,Wrong Turn,Serious
+1164,18-02-2023 11:00,Saturday,Evening,Mumbai,Auto,Dry,Foggy,Dark - Street Light,Wrong Turn,Fatal
+1165,18-02-2023 12:00,Saturday,Evening,Hyderabad,Car,Snow,Clear,Daylight,Overspeed,Serious
+1166,18-02-2023 13:00,Sunday,Afternoon,Delhi,Auto,Damaged,Foggy,Dark - No Light,Overspeed,Serious
+1167,18-02-2023 14:00,Thursday,Night,Mumbai,Bike,Wet,Storm,Dark - Street Light,Overspeed,Fatal
+1168,18-02-2023 15:00,Saturday,Evening,Pune,Bike,Dry,Storm,Dark - Street Light,Signal Jump,Minor
+1169,18-02-2023 16:00,Wednesday,Morning,Kolkata,Truck,Wet,Foggy,Dark - Street Light,Overspeed,Serious
+1170,18-02-2023 17:00,Saturday,Morning,Chennai,Auto,Dry,Rainy,Dark - Street Light,Mechanical Failure,Fatal
+1171,18-02-2023 18:00,Saturday,Morning,Kolkata,Truck,Damaged,Clear,Dark - No Light,Wrong Turn,Serious
+1172,18-02-2023 19:00,Saturday,Night,Chennai,Truck,Snow,Storm,Daylight,Mechanical Failure,Minor
+1173,18-02-2023 20:00,Sunday,Afternoon,Bangalore,Bike,Snow,Rainy,Dark - Street Light,Overspeed,Minor
+1174,18-02-2023 21:00,Sunday,Morning,Kolkata,Truck,Snow,Clear,Dark - No Light,Signal Jump,Serious
+1175,18-02-2023 22:00,Monday,Night,Mumbai,Bike,Dry,Storm,Dark - Street Light,Signal Jump,Minor
+1176,18-02-2023 23:00,Sunday,Evening,Chennai,Car,Damaged,Storm,Daylight,Wrong Turn,Fatal
+1177,19-02-2023 00:00,Wednesday,Afternoon,Hyderabad,Auto,Wet,Foggy,Dark - Street Light,Mechanical Failure,Fatal
+1178,19-02-2023 01:00,Wednesday,Evening,Mumbai,Truck,Damaged,Clear,Dark - No Light,Drunk Driving,Serious
+1179,19-02-2023 02:00,Sunday,Night,Hyderabad,Bike,Wet,Rainy,Daylight,Mechanical Failure,Minor
+1180,19-02-2023 03:00,Friday,Morning,Kolkata,Bus,Dry,Rainy,Dark - No Light,Overspeed,Fatal
+1181,19-02-2023 04:00,Thursday,Morning,Hyderabad,Truck,Dry,Rainy,Daylight,Drunk Driving,Fatal
+1182,19-02-2023 05:00,Sunday,Night,Chennai,Cycle,Wet,Clear,Daylight,Signal Jump,Fatal
+1183,19-02-2023 06:00,Saturday,Morning,Mumbai,Car,Wet,Rainy,Daylight,Wrong Turn,Serious
+1184,19-02-2023 07:00,Tuesday,Afternoon,Pune,Car,Wet,Rainy,Dark - Street Light,Wrong Turn,Serious
+1185,19-02-2023 08:00,Thursday,Night,Delhi,Bus,Damaged,Rainy,Dark - No Light,Signal Jump,Fatal
+1186,19-02-2023 09:00,Thursday,Evening,Chennai,Bike,Wet,Foggy,Dark - No Light,Overspeed,Fatal
+1187,19-02-2023 10:00,Wednesday,Night,Chennai,Truck,Dry,Foggy,Dark - No Light,Signal Jump,Minor
+1188,19-02-2023 11:00,Thursday,Afternoon,Pune,Bike,Dry,Clear,Daylight,Overspeed,Minor
+1189,19-02-2023 12:00,Sunday,Afternoon,Mumbai,Car,Snow,Clear,Dark - Street Light,Drunk Driving,Minor
+1190,19-02-2023 13:00,Saturday,Night,Mumbai,Bike,Wet,Rainy,Daylight,Signal Jump,Serious
+1191,19-02-2023 14:00,Saturday,Night,Kolkata,Car,Damaged,Foggy,Dark - No Light,Overspeed,Fatal
+1192,19-02-2023 15:00,Monday,Morning,Hyderabad,Bike,Damaged,Storm,Dark - Street Light,Drunk Driving,Serious
+1193,19-02-2023 16:00,Saturday,Afternoon,Kolkata,Bus,Damaged,Storm,Dark - Street Light,Signal Jump,Fatal
+1194,19-02-2023 17:00,Saturday,Night,Pune,Auto,Snow,Rainy,Dark - Street Light,Wrong Turn,Minor
+1195,19-02-2023 18:00,Wednesday,Night,Kolkata,Bus,Dry,Rainy,Dark - No Light,Signal Jump,Minor
+1196,19-02-2023 19:00,Saturday,Afternoon,Pune,Bus,Damaged,Foggy,Dark - Street Light,Mechanical Failure,Minor
+1197,19-02-2023 20:00,Monday,Night,Mumbai,Auto,Dry,Foggy,Dark - Street Light,Signal Jump,Minor
+1198,19-02-2023 21:00,Tuesday,Morning,Hyderabad,Auto,Snow,Foggy,Daylight,Mechanical Failure,Fatal
+1199,19-02-2023 22:00,Sunday,Afternoon,Kolkata,Truck,Wet,Clear,Daylight,Drunk Driving,Minor
+1200,19-02-2023 23:00,Wednesday,Morning,Chennai,Truck,Wet,Clear,Dark - Street Light,Signal Jump,Fatal
